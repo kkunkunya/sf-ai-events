@@ -27,7 +27,9 @@ for e in rows:
     if e.get("city") not in CITIES or not all(e.get(k) for k in ("title", "start", "url")): continue
     if not str(e["url"]).startswith("http") or str(e["start"])[:10] < today: continue
     key = re.sub(r'\W+', '', e["url"].split('?')[0].lower())
-    if key in items: continue
+    if key in items:  # duplicate: only use it to fill a missing price
+        if items[key]["price"] == "Unknown" and e.get("price"): items[key]["price"] = e["price"]
+        continue
     site = urllib.parse.urlparse(e["url"]).netloc.removeprefix("www.")
     items[key] = {k: e.get(k, "") for k in ("title", "start", "url", "city")} | {"price": e.get("price") or "Unknown", "site": site}
 with cf.ThreadPoolExecutor(16) as ex:

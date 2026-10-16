@@ -1,4 +1,4 @@
 Search the web for upcoming AI events in CITY_PLACEHOLDER (including its metro area) happening in the next 60 days: meetups, hackathons, talks, demo days, conferences. Also include other notable tech events.
 Output ONLY a JSON array, no prose, no code fences. Each item:
 {"title":"","start":"YYYY-MM-DDTHH:MM (local time, or YYYY-MM-DD if no time)","price":"Free | exact price e.g. $25 / ¥99 / Unknown","url":"original event / registration page URL"}
-Keep titles in the original language. Only include events with a real, working URL you actually saw. Aim for 20+ events. Today is DATE_PLACEHOLDER.
+For price, open each event page and read the ticket info (e.g. Luma/Eventbrite/活动行/Meetup show "Free" or a ticket price); use Unknown only if the page truly shows none. Keep titles in the original language. Only include events with a real, working URL you actually saw. Aim for 20+ events. Today is DATE_PLACEHOLDER.
