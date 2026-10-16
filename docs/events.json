@@ -1,0 +1,3922 @@
+[
+ {
+  "title": "Arena Peak Asia 亚洲黑客松巅峰赛·上海站",
+  "start": "2026-10-16",
+  "location": "美兰西湖蜂巢艺术中心, 上海市宝山区罗店镇罗店路600弄1号",
+  "category": "AI",
+  "url": "https://hackertrip.space/hackathon/4438bf92-5341-46e5-9190-6bc9eb16e7ae",
+  "city": "Shanghai",
+  "lat": 31.415,
+  "lng": 121.341
+ },
+ {
+  "title": "GOSIM Shenzhen 2026 全球开源创新大会",
+  "start": "2026-10-16",
+  "location": "深圳南山伊敦酒店, 深圳市南山区蛇口龟山路8号",
+  "category": "AI",
+  "url": "https://shenzhen2026.gosim.org/zh/",
+  "city": "Shenzhen",
+  "lat": 22.4842,
+  "lng": 113.9107
+ },
+ {
+  "title": "第六届 HiPM 产品创新力峰会",
+  "start": "2026-10-16",
+  "location": "深圳好日子皇冠假日酒店, 深圳市福田区",
+  "category": "AI",
+  "url": "https://www.msup.com.cn/meeting/index",
+  "city": "Shenzhen",
+  "lat": 22.5335,
+  "lng": 114.0562
+ },
+ {
+  "title": "The 6th International Conference on Data-Driven Computing and Machine Learning in Engineering",
+  "start": "2026-10-16",
+  "location": "复旦大学邯郸校区, 上海市杨浦区邯郸路220号",
+  "category": "AI",
+  "url": "https://dacoma.org.cn/",
+  "city": "Shanghai",
+  "lat": 31.2976,
+  "lng": 121.501
+ },
+ {
+  "title": "2026 X-AGI Conference（交叉智能大会）",
+  "start": "2026-10-16",
+  "location": "北京友谊宾馆，北京市海淀区中关村南大街1号",
+  "category": "AI",
+  "url": "https://www.x-agi.cc/about/",
+  "city": "Beijing",
+  "lat": 39.9621,
+  "lng": 116.3133
+ },
+ {
+  "title": "ROSCon China 2026",
+  "start": "2026-10-16T08:00",
+  "location": "上海美的全球创新园区, 上海市青浦区徐民东路777号",
+  "category": "AI",
+  "url": "https://www.roscon.cn/2026/index.html",
+  "city": "Shanghai",
+  "lat": 31.1768,
+  "lng": 121.2794
+ },
+ {
+  "title": "Open Together: AI Builders Unite",
+  "start": "2026-10-16T18:00",
+  "location": "The Midway, 900 Marin St, San Francisco, CA 94124",
+  "category": "AI",
+  "url": "https://luma.com/OpenTogether",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7503,
+  "lng": -122.3874
+ },
+ {
+  "title": "线下活动 | AI 创业实战局: Vibe Coding+企业智能+商业闭环 · 独行录AI+OPC第八期",
+  "start": "2026-10-17",
+  "location": "北京海淀中关村（详细地址报名入群后可见）",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/1880939399800",
+  "city": "Beijing",
+  "lat": 39.9836,
+  "lng": 116.3163
+ },
+ {
+  "title": "中关村创坛 | AI赋能文旅交互新体验",
+  "start": "2026-10-17",
+  "location": "紫荆壹角兽OPC社区（紫荆文化广场F楼5）, 北京通州",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/6882251278111",
+  "city": "Beijing",
+  "lat": 39.905,
+  "lng": 116.656
+ },
+ {
+  "title": "BSidesNYC",
+  "start": "2026-10-17T08:00",
+  "location": "John Jay College of Criminal Justice, 524 W 59th St, New York, NY 10019",
+  "category": "Dev",
+  "url": "https://bsidesnyc.org/",
+  "city": "New York",
+  "lat": 40.7704,
+  "lng": -73.9882
+ },
+ {
+  "title": "MITAI Conference 2026: Age of Agency",
+  "start": "2026-10-17T08:15",
+  "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+  "category": "AI",
+  "url": "https://luma.com/mitai2026",
+  "city": "San Francisco Bay Area",
+  "lat": 37.4143,
+  "lng": -122.0775
+ },
+ {
+  "title": "IKU Womxn in STEM Hackathon 2026",
+  "start": "2026-10-17T09:00",
+  "location": "Bush House, King's College London Strand Campus, 30 Aldwych, London WC2B 4BG",
+  "category": "Dev",
+  "url": "https://ikuwomxninstemhackathon.co.uk",
+  "city": "London",
+  "lat": 51.5129,
+  "lng": -0.1173
+ },
+ {
+  "title": "Bridge with Signal｜以价值信号，连通现在与未来",
+  "start": "2026-10-17T09:00",
+  "location": "雪花科技大厦6楼, 深圳市宝安区雪花路1号",
+  "category": "AI",
+  "url": "https://2026-autumn.awscommunityday.cn/",
+  "city": "Shenzhen",
+  "lat": 22.5882,
+  "lng": 113.8878
+ },
+ {
+  "title": "2026 人工智能开放计算大会暨众智 FlagOS 技术大会",
+  "start": "2026-10-17T09:00",
+  "location": "中关村国家自主创新示范区展示中心会议中心颐和厅，北京市海淀区新建宫门路2号",
+  "category": "AI",
+  "url": "https://www.bagevent.com/event/FlagOS2026?bag_track=bagevent",
+  "city": "Beijing",
+  "lat": 39.9881,
+  "lng": 116.2897
+ },
+ {
+  "title": "The Recursive Agents Hackathon",
+  "start": "2026-10-17T09:00",
+  "location": "San Francisco, CA (venue shared with approved applicants)",
+  "category": "AI",
+  "url": "https://cerebralvalley.ai/e/crusoe-recursive-agents-hackathon",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7749,
+  "lng": -122.4194
+ },
+ {
+  "title": "Arm + ExecuTorch: Edge AI Challenge",
+  "start": "2026-10-17T09:00",
+  "location": "San Francisco State University, 1600 Holloway Ave, San Francisco, CA 94132",
+  "category": "AI",
+  "url": "https://arm-executorch.devpost.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7219,
+  "lng": -122.4782
+ },
+ {
+  "title": "市场人必备的 AI 带练课 · 从 0 到 1 | 上海场",
+  "start": "2026-10-17T10:00",
+  "location": "世界贸易大厦41楼云端厅, 上海市黄浦区广东路500号",
+  "category": "AI",
+  "url": "https://lianpu.com/event/shi-chang-ren-bi-bei-de-ai-dai-lian-ke-cong-0-dao-1-shang-ha",
+  "city": "Shanghai",
+  "lat": 31.2357,
+  "lng": 121.4836
+ },
+ {
+  "title": "2026 Maker Faire广州国际创汇嘉年华",
+  "start": "2026-10-17T10:00",
+  "location": "黄埔区图书馆总馆（香雪馆），广州市黄埔区开萝大道4号",
+  "category": "Hardware",
+  "url": "https://hz.huodongxing.com/event/5872990297400?qd=8828363103856&utm_campaign=eventspage&utm_medium=&utm_source=%E5%8F%91%E7%8E%B0%E6%B4%BB%E5%8A%A8%E9%A1%B5",
+  "city": "Guangzhou",
+  "lat": 23.17489,
+  "lng": 113.50168
+ },
+ {
+  "title": "2026 Tripothon Global S1 世界构建黑客松-上海场",
+  "start": "2026-10-17T10:30",
+  "location": "上海黄浦江游轮·其昌栈游船码头, 上海市浦东新区滨江大道1658号",
+  "category": "AI",
+  "url": "https://luma.com/otpjijv7?locale=zh",
+  "city": "Shanghai",
+  "lat": 31.2465,
+  "lng": 121.515
+ },
+ {
+  "title": "Mem-Off! The Open Source AI Memory Showdown",
+  "start": "2026-10-17T10:30",
+  "location": "Pebblebed, 1417 15th St, San Francisco, CA 94103",
+  "category": "AI",
+  "url": "https://luma.com/cognee-cy86",
+  "city": "San Francisco Bay Area",
+  "lat": 37.76666,
+  "lng": -122.41616
+ },
+ {
+  "title": "活动报名！AI营销创新与大湾区制造业全球化出海大会",
+  "start": "2026-10-17T13:00",
+  "location": "东方国际会展中心（广州东方宾馆），广州市越秀区流花路120号",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/5882520572000",
+  "city": "Guangzhou",
+  "lat": 23.139,
+  "lng": 113.2584
+ },
+ {
+  "title": "AIで作って遊ぶLT交流会",
+  "start": "2026-10-17T13:00",
+  "location": "渋谷金王タワー17F, 東京都渋谷区渋谷3-6-7",
+  "category": "AI",
+  "url": "https://orion.connpass.com/event/408140/",
+  "city": "Tokyo",
+  "lat": 35.6575,
+  "lng": 139.7055
+ },
+ {
+  "title": "超级创业者 · AI 创新系列训练营（第一场）— AI 视频创新专场",
+  "start": "2026-10-17T13:30",
+  "location": "仪智空间, 上海市徐汇区宜州路180号B3栋一楼",
+  "category": "Startup",
+  "url": "https://lianpu.com/event/chao-ji-chuang-ye-zhe-ai-chuang-xin-xi-lie-xun-lian-ying-di",
+  "city": "Shanghai",
+  "lat": 31.1748,
+  "lng": 121.407
+ },
+ {
+  "title": "进迭时空开发者大会 2026",
+  "start": "2026-10-17T13:30",
+  "location": "科创学院, 深圳市南山区留仙大道创智云城二期C1栋1单元",
+  "category": "AI",
+  "url": "https://luma.com/q5z0v87f",
+  "city": "Shenzhen",
+  "lat": 22.5813,
+  "lng": 113.9517
+ },
+ {
+  "title": "2026 AI搜索与企业增长大会",
+  "start": "2026-10-17T14:00",
+  "location": "视听静界 π 空间, 上海市静安区",
+  "category": "AI",
+  "url": "https://events.contentdance.com/ai-search-2026",
+  "city": "Shanghai",
+  "lat": 31.229,
+  "lng": 121.448
+ },
+ {
+  "title": "AI 创造者交流日：从线上聊到线下，一起把想法做出来",
+  "start": "2026-10-17T14:00",
+  "location": "前海深港青年梦工场, 深圳市南山区梦海大道5188号",
+  "category": "AI",
+  "url": "https://lianpu.com/event/alovers-ai-chuang-zao-zhe-jiao-liu-ri-cong-xian-shang-liao-d",
+  "city": "Shenzhen",
+  "lat": 22.5384,
+  "lng": 113.9098
+ },
+ {
+  "title": "1000x Productivity with Claude",
+  "start": "2026-10-17T15:00",
+  "location": "Forest City Marina Hotel, Jalan Forest City, Gelang Patah, Johor, Malaysia",
+  "category": "AI",
+  "url": "https://luma.com/claude-k3cc",
+  "city": "Singapore",
+  "lat": 1.336,
+  "lng": 103.5938
+ },
+ {
+  "title": "AI 圆桌「相遇与故事之夜」",
+  "start": "2026-10-17T19:30",
+  "location": "AI Hacker House, 上海漕河泾开发区",
+  "category": "AI",
+  "url": "https://lianpu.com/event/shi-zi-lu-kou-ai-yuan-zhuo-xiang-yu-yu-gu-shi-zhi-ye-ai-shi",
+  "city": "Shanghai",
+  "lat": 31.17,
+  "lng": 121.398
+ },
+ {
+  "title": "field:work | Further Study (Syntax & Semantics)",
+  "start": "2026-10-18T11:00",
+  "location": "Arts x Tech Lab, 28 Aliwal St, #02-05 Aliwal Arts Centre, Singapore 199918",
+  "category": "Other",
+  "url": "https://luma.com/odyy5qyg",
+  "city": "Singapore",
+  "lat": 1.3027,
+  "lng": 103.861
+ },
+ {
+  "title": "Builder Odyssey: AI Infra, Multimodal & FDE | Founder Demos & AI Film Showcase",
+  "start": "2026-10-18T13:00",
+  "location": "The Midway, 900 Marin St, San Francisco, CA 94124",
+  "category": "AI",
+  "url": "https://luma.com/seamate-tey7",
+  "city": "San Francisco Bay Area",
+  "lat": 37.74928,
+  "lng": -122.38569
+ },
+ {
+  "title": "Grok Bot Meetup Shanghai",
+  "start": "2026-10-18T14:00",
+  "location": "浦东软件园（郭守敬园）爱酷空间2号楼2楼, 上海市浦东新区郭守敬路498号",
+  "category": "AI",
+  "url": "https://lianpu.com/event/grok-bot-meetup-shanghaicursor-de-xin-chan-pin-grok-bot-xian",
+  "city": "Shanghai",
+  "lat": 31.204,
+  "lng": 121.596
+ },
+ {
+  "title": "具身智能沙龙：从「数字大脑」到「具身智能」",
+  "start": "2026-10-18T14:00",
+  "location": "金桥创客天地, 上海市浦东新区金皖路389号",
+  "category": "AI",
+  "url": "https://lianpu.com/event/shang-hai-ju-shen-zhi-neng-sha-long-cong-shu-zi-da-nao-dao-j",
+  "city": "Shanghai",
+  "lat": 31.278,
+  "lng": 121.645
+ },
+ {
+  "title": "Grok Bot Meetup Shanghai",
+  "start": "2026-10-18T14:00",
+  "location": "浦东软件园（郭守敬园）爱酷空间2号楼2楼, 上海市浦东新区郭守敬路498号",
+  "category": "AI",
+  "url": "https://luma.com/spacexai-kh2x",
+  "city": "Shanghai",
+  "lat": 31.2086,
+  "lng": 121.599
+ },
+ {
+  "title": "Future of Work & Creativity - AI Showcase",
+  "start": "2026-10-18T18:30",
+  "location": "Suntec City, 3 Temasek Blvd, Singapore 038983",
+  "category": "AI",
+  "url": "https://luma.com/4g1yrdf1",
+  "city": "Singapore",
+  "lat": 1.295,
+  "lng": 103.8583
+ },
+ {
+  "title": "フィジカルAI勉強会＠東京-汎用AIで動く協働ロボ回- Airion×TRON和嶋渓氏 共同登壇",
+  "start": "2026-10-18T19:30",
+  "location": "ノルドビル3階, 東京都台東区北上野1-6-11",
+  "category": "AI",
+  "url": "https://connpass.com/event/407953/",
+  "city": "Tokyo",
+  "lat": 35.714,
+  "lng": 139.779
+ },
+ {
+  "title": "Triton Developer Conference",
+  "start": "2026-10-19T08:00",
+  "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
+  "category": "AI",
+  "url": "https://tritonconference2026.splashthat.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.3291,
+  "lng": -121.8889
+ },
+ {
+  "title": "Arm Create: Hands-on AI with Google, Renesas & Nota AI",
+  "start": "2026-10-19T10:00",
+  "location": "The Tech Interactive, 201 S Market St, San Jose, CA 95113",
+  "category": "Hardware",
+  "url": "https://luma.com/w9n0o36l",
+  "city": "San Francisco Bay Area",
+  "lat": 37.33156,
+  "lng": -121.89223
+ },
+ {
+  "title": "Agents hunting Agents: Open Source + AI approaches.",
+  "start": "2026-10-19T10:30",
+  "location": "Silicon Valley AI Hub, 135 Constitution Dr, Menlo Park, CA 94025",
+  "category": "AI",
+  "url": "https://luma.com/aicyber-59x4",
+  "city": "San Francisco Bay Area",
+  "lat": 37.48505,
+  "lng": -122.17622
+ },
+ {
+  "title": "Cline, Parallel, & Composio Hackathon",
+  "start": "2026-10-19T11:00",
+  "location": "Mid-Market, San Francisco, CA (address after registration)",
+  "category": "AI",
+  "url": "https://luma.com/m8euvq9n",
+  "city": "San Francisco Bay Area",
+  "lat": 37.78252,
+  "lng": -122.41227
+ },
+ {
+  "title": "Getting Started with AI Risk Management",
+  "start": "2026-10-19T16:00",
+  "location": "Hong Leong Building, 16 Raffles Quay, Singapore 048581",
+  "category": "AI",
+  "url": "https://luma.com/5bbt6ioy",
+  "city": "Singapore",
+  "lat": 1.2814,
+  "lng": 103.851
+ },
+ {
+  "title": "THE SF DATABASE MEETUP: October",
+  "start": "2026-10-19T17:30",
+  "location": "PlanetScale, 108 Natoma St, San Francisco, CA 94105",
+  "category": "Data",
+  "url": "https://luma.com/ip56zybg",
+  "city": "San Francisco Bay Area",
+  "lat": 37.788,
+  "lng": -122.3975
+ },
+ {
+  "title": "Open Source AI Week 2026 | Open Weight Debate Night",
+  "start": "2026-10-19T17:30",
+  "location": "GitHub HQ, San Francisco, CA",
+  "category": "AI",
+  "url": "https://luma.com/592fcwx2",
+  "city": "San Francisco Bay Area",
+  "lat": 37.78285,
+  "lng": -122.39348
+ },
+ {
+  "title": "MCP in the Wild: Agents That Know You",
+  "start": "2026-10-19T17:30",
+  "location": "Silicon Valley AI Hub, 135 Constitution Dr, Menlo Park, CA 94025",
+  "category": "AI",
+  "url": "https://luma.com/k6qlui66",
+  "city": "San Francisco Bay Area",
+  "lat": 37.48505,
+  "lng": -122.17622
+ },
+ {
+  "title": "[London] Enterprise AI Showcase (October)",
+  "start": "2026-10-19T18:00",
+  "location": "Netmind, 75 King William Street, London, UK",
+  "category": "AI",
+  "url": "https://www.aicamp.ai/event/eventdetails/W2026101910",
+  "city": "London",
+  "lat": 51.5111,
+  "lng": -0.0867
+ },
+ {
+  "title": "Tenstorrent Tech Talk #10",
+  "start": "2026-10-19T18:00",
+  "location": "T-Lite 8F, 東京都港区虎ノ門2-4-7",
+  "category": "Hardware",
+  "url": "https://tenstorrent.connpass.com/event/408293/",
+  "city": "Tokyo",
+  "lat": 35.669,
+  "lng": 139.748
+ },
+ {
+  "title": "Claude for Marketing",
+  "start": "2026-10-19T18:30",
+  "location": "Lifelong Learning Institute, Level 2 Lecture Hall, 11 Eunos Road 8, Singapore 408601",
+  "category": "AI",
+  "url": "https://luma.com/fe25l2au",
+  "city": "Singapore",
+  "lat": 1.31971,
+  "lng": 103.89244
+ },
+ {
+  "title": "Quandora Masterclass: Build Your Own AI Hedge Fund in 30 minutes",
+  "start": "2026-10-19T18:45",
+  "location": "Queenstown, Singapore (address shared upon registration)",
+  "category": "AI",
+  "url": "https://luma.com/dwjl9h16",
+  "city": "Singapore",
+  "lat": 1.2765,
+  "lng": 103.7982
+ },
+ {
+  "title": "レバテックMeetUP～AI時代のソフトウェアアーキテクチャ～",
+  "start": "2026-10-19T19:00",
+  "location": "渋谷スクランブルスクエア25F, 東京都渋谷区渋谷2-24-12",
+  "category": "AI",
+  "url": "https://levtechcareer.connpass.com/event/407418/",
+  "city": "Tokyo",
+  "lat": 35.6585,
+  "lng": 139.7022
+ },
+ {
+  "title": "【最前線を学ぶ】AI駆動開発&FDE勉強会 エンプラが登壇",
+  "start": "2026-10-19T19:00",
+  "location": "渋谷協和ビル10階, 東京都渋谷区渋谷2-20-11",
+  "category": "AI",
+  "url": "https://creator-square.connpass.com/event/406055/",
+  "city": "Tokyo",
+  "lat": 35.6595,
+  "lng": 139.705
+ },
+ {
+  "title": "PyTorch Conference North America 2026",
+  "start": "2026-10-20",
+  "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
+  "category": "AI",
+  "url": "https://events.linuxfoundation.org/pytorch-conference-north-america/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.3291,
+  "lng": -121.8889
+ },
+ {
+  "title": "CREtech New York 2026",
+  "start": "2026-10-20T08:00",
+  "location": "Jacob K. Javits Convention Center, 429 11th Ave, New York, NY 10001",
+  "category": "AI",
+  "url": "https://cretech.com/",
+  "city": "New York",
+  "lat": 40.7578,
+  "lng": -74.0021
+ },
+ {
+  "title": "PyTorch Conference North America 2026",
+  "start": "2026-10-20T09:00",
+  "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
+  "category": "AI",
+  "url": "https://pytorch.org/event/pytorch-conference-2026/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.3297,
+  "lng": -121.8889
+ },
+ {
+  "title": "IHRP x Oracle Masterclass: Building your own AI agent",
+  "start": "2026-10-20T09:00",
+  "location": "Lifelong Learning Institute, 11 Eunos Rd 8, Singapore 408601",
+  "category": "AI",
+  "url": "https://luma.com/b6h1pdpn",
+  "city": "Singapore",
+  "lat": 1.3197,
+  "lng": 103.893
+ },
+ {
+  "title": "AI 算力平台 — Axon Platform 发布会",
+  "start": "2026-10-20T13:30",
+  "location": "深圳国际商会中心2楼, 深圳市福田区",
+  "category": "AI",
+  "url": "https://lianpu.com/event/ai-suan-li-ping-tai-axon-platform",
+  "city": "Shenzhen",
+  "lat": 22.5358,
+  "lng": 114.0564
+ },
+ {
+  "title": "新硬见 — AI 智能硬件渠道对接会",
+  "start": "2026-10-20T13:30",
+  "location": "恒明珠金融大厦42楼, 深圳市宝安区",
+  "category": "Hardware",
+  "url": "https://lianpu.com/event/xin-yi-jian-ai-zhi-neng-ying-jian-qu-dao-dui-jie-hui",
+  "city": "Shenzhen",
+  "lat": 22.5708,
+  "lng": 113.8798
+ },
+ {
+  "title": "2026AI工具出海论坛",
+  "start": "2026-10-20T14:00",
+  "location": "北京海淀（详细地址报名审核通过后告知）",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/4879756973011",
+  "city": "Beijing",
+  "lat": 39.9593,
+  "lng": 116.2981
+ },
+ {
+  "title": "AI Labs Singapore",
+  "start": "2026-10-20T15:00",
+  "location": "PARKROYAL COLLECTION Pickering, 3 Upper Pickering St, Singapore 058289",
+  "category": "AI",
+  "url": "https://luma.com/notion-nvm0",
+  "city": "Singapore",
+  "lat": 1.2856,
+  "lng": 103.8466
+ },
+ {
+  "title": "What If Your Next Deal Is Already in Your WhatsApp?",
+  "start": "2026-10-20T16:00",
+  "location": "the Hive Lavender, 1 Kallang Jct, Level 6 Vanguard Campus, Singapore 339263",
+  "category": "Startup",
+  "url": "https://luma.com/u8v870mb",
+  "city": "Singapore",
+  "lat": 1.3125,
+  "lng": 103.8642
+ },
+ {
+  "title": "SGLang Meetup with LinkedIn and LMCache",
+  "start": "2026-10-20T17:00",
+  "location": "LinkedIn Building 950, 950 W Maude Ave, Sunnyvale, CA 94085",
+  "category": "AI",
+  "url": "https://luma.com/zbp6a1e1",
+  "city": "San Francisco Bay Area",
+  "lat": 37.3925,
+  "lng": -122.043
+ },
+ {
+  "title": "Mindstone London October AI Meetup",
+  "start": "2026-10-20T18:00",
+  "location": "Inspire St James, Clerkenwell Close, London EC1R 0EA",
+  "category": "AI",
+  "url": "https://www.eventbrite.co.uk/e/mindstone-london-october-ai-meetup-tickets-1992558072834",
+  "city": "London",
+  "lat": 51.524,
+  "lng": -0.106
+ },
+ {
+  "title": "AI Safety Night SF: From Multimodal to Physical AI",
+  "start": "2026-10-20T18:00",
+  "location": "The Art of San Francisco, 2 Embarcadero Ctr, San Francisco, CA 94111",
+  "category": "AI",
+  "url": "https://luma.com/hk74y6b6",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7951,
+  "lng": -122.3989
+ },
+ {
+  "title": "Mindstone London October AI Meetup",
+  "start": "2026-10-20T18:00",
+  "location": "Inspire St James, Clerkenwell Close, London EC1R 0EA, UK",
+  "category": "AI",
+  "url": "https://www.meetup.com/mindstone-london-ai-meetup/events/315409553/",
+  "city": "London",
+  "lat": 51.5234,
+  "lng": -0.1059
+ },
+ {
+  "title": "AI GTM Exchange: Share a Problem, Steal a Workflow",
+  "start": "2026-10-20T19:00",
+  "location": "SQ Collective x Gen-AI Labs, 65 Mohamed Sultan Rd, Singapore 239003",
+  "category": "AI",
+  "url": "https://luma.com/fv6x7glm",
+  "city": "Singapore",
+  "lat": 1.2914,
+  "lng": 103.8394
+ },
+ {
+  "title": "AIHACK 後夜祭",
+  "start": "2026-10-20T19:30",
+  "location": "KN渋谷3 4階, 東京都渋谷区桜丘町9-8",
+  "category": "AI",
+  "url": "https://aibuilderstokyo.connpass.com/event/407680/",
+  "city": "Tokyo",
+  "lat": 35.6555,
+  "lng": 139.7
+ },
+ {
+  "title": "康复养老前沿技术展-AI养老、脑机接口、外骨骼机器人、智能可穿戴设备 、VR/AR/MR、具身智能",
+  "start": "2026-10-21",
+  "location": "首都国际会展中心 Hall B4 展厅, 北京顺义",
+  "category": "Hardware",
+  "url": "https://www.huodongxing.com/event/8877917858800",
+  "city": "Beijing",
+  "lat": 40.072,
+  "lng": 116.553
+ },
+ {
+  "title": "2026脑机接口产业链研讨会暨第五届科技角创新路演",
+  "start": "2026-10-21",
+  "location": "首都国际会展中心A1馆内会议室, 北京顺义",
+  "category": "Hardware",
+  "url": "https://www.huodongxing.com/event/7882213580411",
+  "city": "Beijing",
+  "lat": 40.072,
+  "lng": 116.553
+ },
+ {
+  "title": "Japan IT Week 秋 2026",
+  "start": "2026-10-21",
+  "location": "幕張メッセ, 千葉県千葉市美浜区中瀬2-1",
+  "category": "Other",
+  "url": "https://www.japan-it.jp/autumn/ja-jp.html",
+  "city": "Tokyo",
+  "lat": 35.648,
+  "lng": 140.0346
+ },
+ {
+  "title": "Spatial Data Science Conference 2026",
+  "start": "2026-10-21",
+  "location": "New World Stages, 340 W 50th St, New York, NY 10019",
+  "category": "Data",
+  "url": "https://spatial-data-science-conference.com/2026/newyork/",
+  "city": "New York",
+  "lat": 40.7629,
+  "lng": -73.9875
+ },
+ {
+  "title": "AI Strategy & Practice Conference",
+  "start": "2026-10-21T09:30",
+  "location": "Ham Yard Hotel, 1 Ham Yard, London W1D 7DT, UK",
+  "category": "AI",
+  "url": "https://www.aistrategyandpractice.com/",
+  "city": "London",
+  "lat": 51.5115,
+  "lng": -0.1354
+ },
+ {
+  "title": "Japan Summit 2026",
+  "start": "2026-10-21T13:00",
+  "location": "Tokyo Innovation Base, 東京都千代田区丸の内3-8-3",
+  "category": "Startup",
+  "url": "https://contents-jp.plugandplaytechcenter.com/japan-summit-2026",
+  "city": "Tokyo",
+  "lat": 35.6753,
+  "lng": 139.7636
+ },
+ {
+  "title": "The One About AI x Cybersecurity",
+  "start": "2026-10-21T15:00",
+  "location": "Lorong AI @ One-North, Vidacity Building, Level 3, The Collider, 69 Ayer Rajah Crescent, Singapore 139961",
+  "category": "AI",
+  "url": "https://luma.com/uj0h41xe",
+  "city": "Singapore",
+  "lat": 1.29614,
+  "lng": 103.78699
+ },
+ {
+  "title": "#3 Tech Fireside Chat! 🚀",
+  "start": "2026-10-21T16:00",
+  "location": "COM4, 3A Research Link, Singapore 119392",
+  "category": "Dev",
+  "url": "https://luma.com/cm3dctcd",
+  "city": "Singapore",
+  "lat": 1.2948,
+  "lng": 103.7739
+ },
+ {
+  "title": "Durable AI (October Edition)",
+  "start": "2026-10-21T17:30",
+  "location": "500 Sansome St, San Francisco, CA 94111",
+  "category": "Dev",
+  "url": "https://luma.com/durable-ai-october",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7945,
+  "lng": -122.4013
+ },
+ {
+  "title": "KSUG.AI Singapore #49 Cloud Native & AI Meetup @ IMDA on 21 Oct 2026",
+  "start": "2026-10-21T18:00",
+  "location": "IMDA, Mapletree Business City, Level 5, 10 Pasir Panjang Road, Singapore 117438",
+  "category": "AI",
+  "url": "https://www.meetup.com/ksug-sg/events/316384465/",
+  "city": "Singapore",
+  "lat": 1.27425,
+  "lng": 103.79995
+ },
+ {
+  "title": "Lessons from Open Source DevTools Founders w/ PostHog, Cline and more",
+  "start": "2026-10-21T18:00",
+  "location": "Hogpatch, 2360 3rd St, San Francisco, CA 94107",
+  "category": "Startup",
+  "url": "https://luma.com/bfgu761e",
+  "city": "San Francisco Bay Area",
+  "lat": 37.75973,
+  "lng": -122.38881
+ },
+ {
+  "title": "AI Salon Singapore (21 October 2026)",
+  "start": "2026-10-21T18:00",
+  "location": "Queenstown, Singapore (address shared upon registration)",
+  "category": "AI",
+  "url": "https://luma.com/AI-Salon-Singapore-October-2026",
+  "city": "Singapore",
+  "lat": 1.2989,
+  "lng": 103.7886
+ },
+ {
+  "title": "KGDC Tech Conference #16「AI駆動開発」",
+  "start": "2026-10-21T19:00",
+  "location": "THE LINKPILLAR 1 NORTH, 東京都港区高輪2-21-1",
+  "category": "AI",
+  "url": "https://kgdc.connpass.com/event/405818/",
+  "city": "Tokyo",
+  "lat": 35.6355,
+  "lng": 139.74
+ },
+ {
+  "title": "JAWS-UG東京 2026秋 〜AWSライトニングトークNight〜",
+  "start": "2026-10-21T19:00",
+  "location": "THE LINKPILLAR 1 NORTH 13階, 東京都港区高輪2-21-1",
+  "category": "Dev",
+  "url": "https://jawsug.connpass.com/event/407526/",
+  "city": "Tokyo",
+  "lat": 35.6355,
+  "lng": 139.74
+ },
+ {
+  "title": "（10.22/广州站）爱搜GEO主题沙龙：AI全域获客增长（右滑解锁更多城市→）",
+  "start": "2026-10-22",
+  "location": "广州建国酒店，广州市天河区林和中路172号",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/7878896412011",
+  "city": "Guangzhou",
+  "lat": 23.14791,
+  "lng": 113.32605
+ },
+ {
+  "title": "走进百度AI交流闭门会",
+  "start": "2026-10-22",
+  "location": "广东财经大学科技园产教大楼，广州市海珠区仑头路21号（坐标为校区附近估计）",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/6880627967900",
+  "city": "Guangzhou",
+  "lat": 23.0911,
+  "lng": 113.3542
+ },
+ {
+  "title": "2026脑机接口材料与制造技术研讨会",
+  "start": "2026-10-22",
+  "location": "首都国际会展中心A1馆内会议室, 北京顺义",
+  "category": "Hardware",
+  "url": "https://www.huodongxing.com/event/4882213118811",
+  "city": "Beijing",
+  "lat": 40.072,
+  "lng": 116.553
+ },
+ {
+  "title": "AGNTCon + MCPCon North America 2026",
+  "start": "2026-10-22",
+  "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
+  "category": "AI",
+  "url": "https://events.linuxfoundation.org/agntcon-mcpcon-north-america/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.3291,
+  "lng": -121.8889
+ },
+ {
+  "title": "Transit Techies #39 | Phil Cline (Swiftly) and Joe Puccio (WalkNYC)",
+  "start": "2026-10-22",
+  "location": "NYU Tandon, Room 1201, 370 Jay St, Brooklyn, NY 11201",
+  "category": "Dev",
+  "url": "https://luma.com/nyu-bo74",
+  "city": "New York",
+  "lat": 40.6922,
+  "lng": -73.9872
+ },
+ {
+  "title": "WTCC 2026 HACKATHON｜Hack for Life 为人生而创造",
+  "start": "2026-10-22T09:00",
+  "location": "上海西岸国际会展中心, 上海市徐汇区西岸",
+  "category": "Hardware",
+  "url": "https://lianpu.com/event/wtcc-2026-hackathonhack-for-life-wei-ren-sheng-er-chuang-zao",
+  "city": "Shanghai",
+  "lat": 31.169,
+  "lng": 121.462
+ },
+ {
+  "title": "QCon上海2026 全球软件开发大会",
+  "start": "2026-10-22T09:00",
+  "location": "上海建工浦江皇冠假日酒店, 上海市闵行区陈行公路3701号",
+  "category": "Dev",
+  "url": "https://qcon.infoq.cn/2026/shanghai",
+  "city": "Shanghai",
+  "lat": 31.047,
+  "lng": 121.504
+ },
+ {
+  "title": "Visual Intelligence Summit (VIS)",
+  "start": "2026-10-22T09:00",
+  "location": "The Midway, 900 Marin St, San Francisco, CA 94124",
+  "category": "AI",
+  "url": "https://summit.roboflow.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7503,
+  "lng": -122.3874
+ },
+ {
+  "title": "GICC 2026 | AI × Future 重构 —— 全球互联网产业CEO大会·上午场",
+  "start": "2026-10-22T09:30",
+  "location": "北京三里屯通盈中心洲际酒店 4F大宴会厅, 北京朝阳",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/2878661748200",
+  "city": "Beijing",
+  "lat": 39.9325,
+  "lng": 116.4527
+ },
+ {
+  "title": "K-AI Global IR Day 2026",
+  "start": "2026-10-22T10:30",
+  "location": "SMU Connexion, Level 5, 40 Stamford Road, Singapore 178908",
+  "category": "AI",
+  "url": "https://luma.com/k-aiglobalir2026",
+  "city": "Singapore",
+  "lat": 1.2968,
+  "lng": 103.8494
+ },
+ {
+  "title": "Are We In An AI Investment Bubble?",
+  "start": "2026-10-22T12:00",
+  "location": "WeWork, 71 Robinson Rd, Singapore 068895",
+  "category": "AI",
+  "url": "https://luma.com/i30ooh6l",
+  "city": "Singapore",
+  "lat": 1.2785,
+  "lng": 103.8489
+ },
+ {
+  "title": "走进京东 从灵感到生意 AI 创作的新商业机会",
+  "start": "2026-10-22T13:00",
+  "location": "京东集团总部 2 号园区, 北京大兴（亦庄）",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/5882706039000",
+  "city": "Beijing",
+  "lat": 39.7845,
+  "lng": 116.5603
+ },
+ {
+  "title": "Tech:NYC's Decoded Futures Build Days",
+  "start": "2026-10-22T13:00",
+  "location": "Pier 57, 25 11th Ave, New York, NY 10011",
+  "category": "AI",
+  "url": "https://luma.com/zs2ofk4s",
+  "city": "New York",
+  "lat": 40.7435,
+  "lng": -74.0107
+ },
+ {
+  "title": "GGIC——AI+游戏产业峰会",
+  "start": "2026-10-22T13:30",
+  "location": "广州市，详细地址审核通过后告知（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/5878048176200",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "AI 引爆跨境内容生产力，解锁高质视频量产自由",
+  "start": "2026-10-22T14:00",
+  "location": "雨果跨境, 深圳市南山区前海企业公馆12栋",
+  "category": "AI",
+  "url": "https://lianpu.com/event/ai-yin-bao-kua-jing-nei-rong-sheng-chan-li-jie-suo-gao-zhi-s",
+  "city": "Shenzhen",
+  "lat": 22.5361,
+  "lng": 113.9145
+ },
+ {
+  "title": "AI 出海的秋收，当增长用 ARR 说话",
+  "start": "2026-10-22T14:30",
+  "location": "上海浦东软件园（具体地点报名后可知）, 上海市浦东新区",
+  "category": "Startup",
+  "url": "https://lianpu.com/event/ai-chuhai-arr",
+  "city": "Shanghai",
+  "lat": 31.204,
+  "lng": 121.596
+ },
+ {
+  "title": "AI内容增长：创作者实践、GEO与场景创新——2026新榜AI思享会・北京站【第二期】",
+  "start": "2026-10-22T14:30",
+  "location": "北京东城",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/9877621890600",
+  "city": "Beijing",
+  "lat": 39.928,
+  "lng": 116.416
+ },
+ {
+  "title": "Moonfire • Build Night Hackathon",
+  "start": "2026-10-22T16:30",
+  "location": "One Triton Square, 1 Triton Square, London NW1 3BF, UK",
+  "category": "AI",
+  "url": "https://luma.com/o1su5iop",
+  "city": "London",
+  "lat": 51.5257,
+  "lng": -0.1399
+ },
+ {
+  "title": "Agentic AI in Financial Services and Insurance: Pilot to Production",
+  "start": "2026-10-22T17:00",
+  "location": "IFX Payments, 2nd Floor, The Carter, 11 Pilgrim Street, London EC4V 6RN, UK",
+  "category": "AI",
+  "url": "https://www.blott.com/events/agentic-ai-in-financial-services-and-insurance-pilot-to-production",
+  "city": "London",
+  "lat": 51.514,
+  "lng": -0.1028
+ },
+ {
+  "title": "ODS Data & Agentic AI (ODAI) Meetup Tokyo #3",
+  "start": "2026-10-22T17:30",
+  "location": "AP赤坂グリーンクロス 4F Room-A, 東京都港区赤坂2-4-6",
+  "category": "AI",
+  "url": "https://www.ipa.go.jp/digital/architecture/seminar/odai-meetup/odai-meetup-3.html",
+  "city": "Tokyo",
+  "lat": 35.672,
+  "lng": 139.7388
+ },
+ {
+  "title": "Cybersecurity in the Age of AI",
+  "start": "2026-10-22T17:30",
+  "location": "Arcc Spaces, 1 Marina Blvd, Level 20, Singapore 018989",
+  "category": "AI",
+  "url": "https://luma.com/sn3z153m",
+  "city": "Singapore",
+  "lat": 1.2822,
+  "lng": 103.8527
+ },
+ {
+  "title": "Training Agents IRL",
+  "start": "2026-10-22T18:00",
+  "location": "GitHub, 88 Colin P Kelly Jr St, San Francisco, CA 94107",
+  "category": "AI",
+  "url": "https://luma.com/awautg3p",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7823,
+  "lng": -122.3914
+ },
+ {
+  "title": "AI in the Wild #2: practical AI for marketing and sales",
+  "start": "2026-10-22T18:00",
+  "location": "The Perseverance, 63 Lamb's Conduit Street, London WC1N 3NB, UK",
+  "category": "AI",
+  "url": "https://www.meetup.com/ai-in-the-wild/events/316566522/",
+  "city": "London",
+  "lat": 51.5223,
+  "lng": -0.1182
+ },
+ {
+  "title": "Does AI Hold Space in Sustainability?",
+  "start": "2026-10-22T18:30",
+  "location": "Lorong AI @ One-North, The Markdown, Entrance C, 69 Ayer Rajah Crescent, Singapore 139961",
+  "category": "AI",
+  "url": "https://luma.com/mtlf0dmz",
+  "city": "Singapore",
+  "lat": 1.29614,
+  "lng": 103.78699
+ },
+ {
+  "title": "AI Agent Side Quests",
+  "start": "2026-10-22T18:30",
+  "location": "Lorong AI @ One-North, Vidacity Building, Level 3, 69 Ayer Rajah Crescent, Singapore 139961",
+  "category": "AI",
+  "url": "https://luma.com/x28qtva7",
+  "city": "Singapore",
+  "lat": 1.29614,
+  "lng": 103.78699
+ },
+ {
+  "title": "Techies x SGInnovate Tech Talk: New Dev Roles in the AI era",
+  "start": "2026-10-22T18:30",
+  "location": "SGInnovate, 32 Carpenter Street, Singapore 059911",
+  "category": "AI",
+  "url": "https://luma.com/i8iy0fzc",
+  "city": "Singapore",
+  "lat": 1.28812,
+  "lng": 103.8476
+ },
+ {
+  "title": "Dev Days | Copilot CLI × DevOps - Avanade Japan",
+  "start": "2026-10-22T18:30",
+  "location": "泉ガーデンタワー9階, 東京都港区六本木1-6-1",
+  "category": "AI",
+  "url": "https://avanadejapantech.connpass.com/event/406658/",
+  "city": "Tokyo",
+  "lat": 35.6655,
+  "lng": 139.7395
+ },
+ {
+  "title": "AIDB Meetup「AI×サイバーセキュリティ」",
+  "start": "2026-10-22T19:00",
+  "location": "秋葉原加藤ビル6階, 東京都千代田区神田佐久間町2-15",
+  "category": "AI",
+  "url": "https://connpass.com/event/408903/",
+  "city": "Tokyo",
+  "lat": 35.6975,
+  "lng": 139.7745
+ },
+ {
+  "title": "生成AI会 Vol.3@三田（LLMOps/品質評価）",
+  "start": "2026-10-22T19:00",
+  "location": "住友不動産東京三田ガーデンタワー10F, 東京都港区三田3-5-19",
+  "category": "AI",
+  "url": "https://seisei-ai.connpass.com/event/403469/",
+  "city": "Tokyo",
+  "lat": 35.6455,
+  "lng": 139.743
+ },
+ {
+  "title": "How AI Agents Work in Web3",
+  "start": "2026-10-22T19:00",
+  "location": "SMU Lee Kong Chian School of Business, 50 Stamford Rd, Singapore 178899",
+  "category": "AI",
+  "url": "https://luma.com/fxepahpi",
+  "city": "Singapore",
+  "lat": 1.2953,
+  "lng": 103.8505
+ },
+ {
+  "title": "2026全球开发者先锋大会暨国际具身智能技能大赛",
+  "start": "2026-10-23",
+  "location": "张江科学会堂 / 张江人工智能创新小镇, 上海市浦东新区张江",
+  "category": "AI",
+  "url": "https://ieic.gdps.org.cn/",
+  "city": "Shanghai",
+  "lat": 31.1975,
+  "lng": 121.5945
+ },
+ {
+  "title": "The 3rd International Conference on Intelligent Algorithms and Robotics (IAR 2026)",
+  "start": "2026-10-23",
+  "location": "广州科学城总部国际酒店，广州市黄埔区科学大道288号（坐标为酒店附近估计）",
+  "category": "AI",
+  "url": "https://www.ic-iar.org/",
+  "city": "Guangzhou",
+  "lat": 23.169,
+  "lng": 113.459
+ },
+ {
+  "title": "影视迈入AI中长剧新阶段——“未来已来，剧有AI”第八期系列沙龙活动（AI短剧、AI中剧、AI中剧，AI大电影）",
+  "start": "2026-10-23",
+  "location": "京源大厦1层3号会议室105（双槐里小区甲1号楼）, 北京西城",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/7880662634600",
+  "city": "Beijing",
+  "lat": 39.9067,
+  "lng": 116.322
+ },
+ {
+  "title": "DACon 2026 · 北京站",
+  "start": "2026-10-23",
+  "location": "北京希尔顿逸林酒店，北京市西城区广安门外大街168号",
+  "category": "AI",
+  "url": "https://www.bagevent.com/event/9196611/p/579457",
+  "city": "Beijing",
+  "lat": 39.8876,
+  "lng": 116.3343
+ },
+ {
+  "title": "iRTE 2026 实时智能大会",
+  "start": "2026-10-23",
+  "location": "北京朝阳悠唐皇冠假日酒店，北京市朝阳区三丰北里3号",
+  "category": "AI",
+  "url": "https://www.shengwang.cn/rteconf/",
+  "city": "Beijing",
+  "lat": 39.9207,
+  "lng": 116.4328
+ },
+ {
+  "title": "第二届北京清华医学人工智能论坛",
+  "start": "2026-10-23",
+  "location": "首钢国际会展中心（首钢园四高炉），北京市石景山区石景山路68号首钢园",
+  "category": "AI",
+  "url": "https://beihai.tsinghua.syhci.cn/",
+  "city": "Beijing",
+  "lat": 39.9154,
+  "lng": 116.1518
+ },
+ {
+  "title": "WAIE 2026 人工智能产业大会暨 AI 智能体产业应用大会",
+  "start": "2026-10-23T08:30",
+  "location": "深圳益田威斯汀酒店3楼露台会议厅, 深圳市南山区深南大道9028-2号",
+  "category": "AI",
+  "url": "https://lianpu.com/event/waie-2026-ren-gong-zhi-neng-chan-ye-da-hui-ji-ai-zhi-neng-ti",
+  "city": "Shenzhen",
+  "lat": 22.5394,
+  "lng": 113.9736
+ },
+ {
+  "title": "Wave Young 2026",
+  "start": "2026-10-23T08:30",
+  "location": "明华糖仓, 上海市杨浦区安浦路415号",
+  "category": "Startup",
+  "url": "https://waveyoungshanghai.com/",
+  "city": "Shanghai",
+  "lat": 31.263,
+  "lng": 121.543
+ },
+ {
+  "title": "Intelligence at Work Hackathon",
+  "start": "2026-10-23T08:30",
+  "location": "Silicon Valley AI Hub, Menlo Park, CA",
+  "category": "AI",
+  "url": "https://cerebralvalley.ai/e/intelligence-at-work-hackathon",
+  "city": "San Francisco Bay Area",
+  "lat": 37.453,
+  "lng": -122.1817
+ },
+ {
+  "title": "Microsoft x LSEG - London Hackathon",
+  "start": "2026-10-23T08:30",
+  "location": "Microsoft, 2 Kingdom Street, London W2 6BD, UK",
+  "category": "AI",
+  "url": "https://luma.com/z17544rq",
+  "city": "London",
+  "lat": 51.5204,
+  "lng": -0.1794
+ },
+ {
+  "title": "React Advanced 2026",
+  "start": "2026-10-23T09:00",
+  "location": "The Brewery, 52 Chiswell Street, London EC1Y 4SD",
+  "category": "Dev",
+  "url": "https://reactadvanced.com/",
+  "city": "London",
+  "lat": 51.5208,
+  "lng": -0.0915
+ },
+ {
+  "title": "2026 B2B企业AI商业化落地实战峰会-看见Agent，看见增长（北京站）",
+  "start": "2026-10-23T09:00",
+  "location": "北京维景国际大酒店, 北京朝阳",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/3878505628300",
+  "city": "Beijing",
+  "lat": 39.95,
+  "lng": 116.44
+ },
+ {
+  "title": "Founder House Singapore 🇸🇬",
+  "start": "2026-10-23T09:30",
+  "location": "Singapore (venue shared with accepted participants)",
+  "category": "Startup",
+  "url": "https://luma.com/openhouse-singapore",
+  "city": "Singapore",
+  "lat": 1.3163,
+  "lng": 103.892
+ },
+ {
+  "title": "Pre-ROSCON SG Hackathon Session I",
+  "start": "2026-10-23T13:00",
+  "location": "The Meeting Point, 73B Ayer Rajah Crescent, Singapore 139966",
+  "category": "Hardware",
+  "url": "https://www.meetup.com/singapore-ros-meetup/events/316070006/",
+  "city": "Singapore",
+  "lat": 1.2963,
+  "lng": 103.7878
+ },
+ {
+  "title": "Encode London Hackathon",
+  "start": "2026-10-23T14:00",
+  "location": "Encode Hub, 41 Pitfield St, London N1 6DA",
+  "category": "AI",
+  "url": "https://luma.com/encode-london-2026",
+  "city": "London",
+  "lat": 51.529,
+  "lng": -0.084
+ },
+ {
+  "title": "钛动科技TGC大会2026",
+  "start": "2026-10-23T14:00",
+  "location": "广州富力丽思卡尔顿酒店，广州市天河区珠江新城兴安路3号",
+  "category": "AI",
+  "url": "https://hz.huodongxing.com/event/9878777491300?qd=8828363103856&utm_campaign=eventspage&utm_medium=&utm_source=%E5%8F%91%E7%8E%B0%E6%B4%BB%E5%8A%A8%E9%A1%B5",
+  "city": "Guangzhou",
+  "lat": 23.11633,
+  "lng": 113.32726
+ },
+ {
+  "title": "iRTE2026/实时智能大会——企业级客服智能体专场",
+  "start": "2026-10-23T14:00",
+  "location": "北京悠唐皇冠假日酒店, 北京朝阳",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/8879322768900",
+  "city": "Beijing",
+  "lat": 39.9258,
+  "lng": 116.4402
+ },
+ {
+  "title": "AI BOT MEETUP - BUILD YOUR AI TEAM BEFORE 2027",
+  "start": "2026-10-23T14:00",
+  "location": "71 Ayer Rajah Crescent, Singapore 139951",
+  "category": "AI",
+  "url": "https://luma.com/v83hxdlu",
+  "city": "Singapore",
+  "lat": 1.2966,
+  "lng": 103.7869
+ },
+ {
+  "title": "Xsolla Workshop：独立游戏 全球连接",
+  "start": "2026-10-23T15:00",
+  "location": "北京首钢园香格里拉酒店，北京市石景山区石景山路68号院群明湖西街",
+  "category": "Dev",
+  "url": "https://www.huodongxing.com/event/9879763715200?utm_campaign=eventspage&utm_medium=&utm_source=%E5%8F%91%E7%8E%B0%E6%B4%BB%E5%8A%A8%E9%A1%B5",
+  "city": "Beijing",
+  "lat": 39.9135,
+  "lng": 116.144
+ },
+ {
+  "title": "co11ab Singapore Healthcare Gateway Accelerator – Demo Day",
+  "start": "2026-10-23T15:30",
+  "location": "co11ab, 11 Mandalay Road, #16-01, Singapore 308232",
+  "category": "Startup",
+  "url": "https://luma.com/9uryt1mg",
+  "city": "Singapore",
+  "lat": 1.3221,
+  "lng": 103.8492
+ },
+ {
+  "title": "Got an idea? Let's see it with Lovable @AWS Singapore",
+  "start": "2026-10-23T17:00",
+  "location": "Amazon Web Services Singapore, 2 Central Blvd, Singapore 018916",
+  "category": "AI",
+  "url": "https://luma.com/1xmnx8sy",
+  "city": "Singapore",
+  "lat": 1.2801,
+  "lng": 103.8512
+ },
+ {
+  "title": "2026 中国人工智能学会智慧医疗专委会年会",
+  "start": "2026-10-24",
+  "location": "广州新世界酒店，广州市白云区百顺北路30号",
+  "category": "AI",
+  "url": "https://event.caai.cn/420",
+  "city": "Guangzhou",
+  "lat": 23.2352,
+  "lng": 113.29829
+ },
+ {
+  "title": "【10月21日截止，报名从速！！】iRTE 2026/实时智能大会——社交泛娱乐专场《连接无界：人与人到人与Agent》",
+  "start": "2026-10-24",
+  "location": "北京悠唐皇冠假日酒店, 北京朝阳",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/4879064247100",
+  "city": "Beijing",
+  "lat": 39.9258,
+  "lng": 116.4402
+ },
+ {
+  "title": "【报名中】2026企业AI转型大会暨第六届78CIO大会",
+  "start": "2026-10-24",
+  "location": "北京朝阳",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/6859795032600",
+  "city": "Beijing",
+  "lat": 39.9219,
+  "lng": 116.4436
+ },
+ {
+  "title": "AI 时代出海增长工作坊 & 分享会",
+  "start": "2026-10-24",
+  "location": "中关村创业大厦一层直觉创造, 北京海淀上地街道",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/4878706444800",
+  "city": "Beijing",
+  "lat": 40.04,
+  "lng": 116.309
+ },
+ {
+  "title": "Emergent - VibeCon SF 2026: Vibecode Your Way to a YC Interview",
+  "start": "2026-10-24T08:00",
+  "location": "Y Combinator, 560 20th St, San Francisco, CA 94107",
+  "category": "AI",
+  "url": "https://luma.com/event/evt-b8DDCJyDozw8DgR",
+  "city": "San Francisco Bay Area",
+  "lat": 37.76,
+  "lng": -122.388
+ },
+ {
+  "title": "Company Brain Buildathon",
+  "start": "2026-10-24T09:30",
+  "location": "The Building Centre, 26 Store St, London WC1E 7BT",
+  "category": "AI",
+  "url": "https://luma.com/a5yfh2ve",
+  "city": "London",
+  "lat": 51.5205,
+  "lng": -0.131
+ },
+ {
+  "title": "AI 切磋大会 · 上海 · 上海京东MALL七宝店",
+  "start": "2026-10-24T10:00",
+  "location": "上海京东MALL七宝店, 上海市闵行区漕宝路3459号",
+  "category": "AI",
+  "url": "https://events.waytoagi.com/events/e_e163c9d656",
+  "city": "Shanghai",
+  "lat": 31.158,
+  "lng": 121.348
+ },
+ {
+  "title": "Vue Fes Japan 2026",
+  "start": "2026-10-24T10:00",
+  "location": "大手町プレイス ホール＆カンファレンス, 東京都千代田区大手町2-3-1",
+  "category": "Dev",
+  "url": "https://vuefes.jp/2026/",
+  "city": "Tokyo",
+  "lat": 35.6871,
+  "lng": 139.7664
+ },
+ {
+  "title": "GAIC 全球人工智能大会城市合伙人交流会",
+  "start": "2026-10-24T12:00",
+  "location": "上海中心40楼, 上海市浦东新区银城中路501号",
+  "category": "AI",
+  "url": "https://lianpu.com/event/gaic-global-ai-conference-city-partner-exchange",
+  "city": "Shanghai",
+  "lat": 31.2335,
+  "lng": 121.5055
+ },
+ {
+  "title": "启元机器人 Developer Playground 开发者见面会",
+  "start": "2026-10-24T14:00",
+  "location": "龙凤PRSCO, 上海市淮海路",
+  "category": "Hardware",
+  "url": "https://lianpu.com/event/qiyuan-robot-developer-playground-shanghai",
+  "city": "Shanghai",
+  "lat": 31.219,
+  "lng": 121.458
+ },
+ {
+  "title": "TEDxSingapore Main Stage 2026: Landing Points",
+  "start": "2026-10-24T14:00",
+  "location": "Victoria Theatre, 9 Empress Pl, Singapore 179556",
+  "category": "Other",
+  "url": "https://luma.com/tedxsingapore2026",
+  "city": "Singapore",
+  "lat": 1.288,
+  "lng": 103.8518
+ },
+ {
+  "title": "AI 开放麦「行动者，继续」· 上海站",
+  "start": "2026-10-24T18:00",
+  "location": "AI Hacker House, 上海漕河泾开发区",
+  "category": "AI",
+  "url": "https://lianpu.com/event/shi-zi-lu-kou-ai-kai-fang-mai-xing-dong-zhe-ji-xu-shang-hai",
+  "city": "Shanghai",
+  "lat": 31.17,
+  "lng": 121.398
+ },
+ {
+  "title": "AI for Mathematics：人工智能时代下数学研究与学习的新探索",
+  "start": "2026-10-24T19:00",
+  "location": "Dweller青年空间, 上海市长宁区延安西路1358号迎龙大厦13楼",
+  "category": "AI",
+  "url": "https://lianpu.com/event/ai-for-mathematics",
+  "city": "Shanghai",
+  "lat": 31.211,
+  "lng": 121.422
+ },
+ {
+  "title": "OPCπ一月一站·昌平共创派",
+  "start": "2026-10-25",
+  "location": "未来科学城未来中心G座, 北京昌平",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/5881957788000",
+  "city": "Beijing",
+  "lat": 40.103,
+  "lng": 116.435
+ },
+ {
+  "title": "Q+AI–3.0 2026",
+  "start": "2026-10-25",
+  "location": "Museum of Jewish Heritage, 36 Battery Pl, New York, NY 10280",
+  "category": "AI",
+  "url": "https://iqtevent.com/quantumai/",
+  "city": "New York",
+  "lat": 40.7059,
+  "lng": -74.0187
+ },
+ {
+  "title": "SF AI->SI Code And Coffee Sunday October 25th!",
+  "start": "2026-10-25T14:00",
+  "location": "Salesforce Park, Central Grassy Area, 425 Mission St, San Francisco, CA 94105",
+  "category": "AI",
+  "url": "https://luma.com/9x4o3v5l",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7895,
+  "lng": -122.3964
+ },
+ {
+  "title": "The Lantern Summit: Accelerating Life Sciences Beyond Borders",
+  "start": "2026-10-26",
+  "location": "Venue disclosed to guests, Shanghai",
+  "category": "Other",
+  "url": "https://thelanternsummit.com/",
+  "city": "Shanghai",
+  "lat": 31.2304,
+  "lng": 121.4737
+ },
+ {
+  "title": "ROSCon Singapore 2026",
+  "start": "2026-10-26T09:00",
+  "location": "Lorong AI @ One-North, Vidacity Building, Level 3, 69 Ayer Rajah Crescent, Singapore 139961",
+  "category": "Hardware",
+  "url": "https://luma.com/nfyo3o3m",
+  "city": "Singapore",
+  "lat": 1.29614,
+  "lng": 103.78699
+ },
+ {
+  "title": "NGRIP Labs: SWITCH 2026 Lab Crawl",
+  "start": "2026-10-26T10:00",
+  "location": "CREATE Tower, Level 2 registration, 1 Create Way, NUS University Town, Singapore 138602",
+  "category": "Startup",
+  "url": "https://luma.com/e5iu7so0",
+  "city": "Singapore",
+  "lat": 1.30379,
+  "lng": 103.77352
+ },
+ {
+  "title": "The California Experience – SWITCH 2026 Pre-Event",
+  "start": "2026-10-26T18:00",
+  "location": "one-north, Singapore (address shared upon registration)",
+  "category": "Startup",
+  "url": "https://luma.com/y8ep2qv2",
+  "city": "Singapore",
+  "lat": 1.2979,
+  "lng": 103.7869
+ },
+ {
+  "title": "SWITCH 2026",
+  "start": "2026-10-27",
+  "location": "Sands Expo and Convention Centre, Halls A–C, 10 Bayfront Avenue, Singapore 018956",
+  "category": "Startup",
+  "url": "https://www.switchsg.org/",
+  "city": "Singapore",
+  "lat": 1.2824,
+  "lng": 103.8587
+ },
+ {
+  "title": "NEPCON ASIA 2026 亚洲电子展",
+  "start": "2026-10-27",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.nepconasia.com/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "S-FACTORY EXPO 2026 智能工厂及自动化技术展览会",
+  "start": "2026-10-27",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.s-factoryexpo.com/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "2026 智能机器人博览会（ROBOTECH）",
+  "start": "2026-10-27",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.robotechasia.com/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "AWC 深圳国际智能网联汽车产业展览会",
+  "start": "2026-10-27",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.nepconasia.com/zh-cn/AWC.html",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "Vision China Shenzhen 2026 中国（深圳）机器视觉展",
+  "start": "2026-10-27",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "AI",
+  "url": "https://www.visionchinashow.net/txw_sz/news/detail.html?id=18705",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "深圳国际半导体及电子元器件展览会（ES SHOW）",
+  "start": "2026-10-27",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.esshow.cn/?l=zh-cn",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "ODSC AI West 2026",
+  "start": "2026-10-27",
+  "location": "Hyatt Regency San Francisco Airport, 1333 Old Bayshore Hwy, Burlingame, CA 94010",
+  "category": "AI",
+  "url": "https://www.eventbrite.com/e/odsc-ai-west-2026-conference-open-data-science-conference-tickets-1982434744687",
+  "city": "San Francisco Bay Area",
+  "lat": 37.5944,
+  "lng": -122.3653
+ },
+ {
+  "title": "ODSC AI West 2026",
+  "start": "2026-10-27",
+  "location": "Hyatt Regency San Francisco Airport, 1333 Old Bayshore Hwy, Burlingame, CA 94010",
+  "category": "AI",
+  "url": "https://odsc.ai/west/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.5938,
+  "lng": -122.3657
+ },
+ {
+  "title": "ContainerDays & AI Context Singapore 2026",
+  "start": "2026-10-27T08:30",
+  "location": "Suntec Singapore Convention & Exhibition Centre, 1 Raffles Boulevard, Singapore 039593",
+  "category": "Dev",
+  "url": "https://www.containerdays.io/containerdays-singapore-2026/",
+  "city": "Singapore",
+  "lat": 1.2934,
+  "lng": 103.8573
+ },
+ {
+  "title": "AI Context x ContainerDays Singapore",
+  "start": "2026-10-27T09:00",
+  "location": "Suntec Singapore Convention & Exhibition Centre, 1 Raffles Blvd, Singapore 039593",
+  "category": "Dev",
+  "url": "https://luma.com/aicontextsingapore",
+  "city": "Singapore",
+  "lat": 1.2936,
+  "lng": 103.8572
+ },
+ {
+  "title": "Unpacking JEV and Decision Models",
+  "start": "2026-10-27T15:00",
+  "location": "Lorong AI @ One-North, 69 Ayer Rajah Cres., Singapore 139961",
+  "category": "Data",
+  "url": "https://luma.com/5okibmzz",
+  "city": "Singapore",
+  "lat": 1.2967,
+  "lng": 103.7871
+ },
+ {
+  "title": "Who Killed the Build? 💀 A Halloween DevTools Murder Mystery with Flox",
+  "start": "2026-10-27T17:00",
+  "location": "San Francisco, CA",
+  "category": "Dev",
+  "url": "https://www.aivalley.io/events/who-killed-the-build-a-halloween-devtools-murder-mystery-with-flox",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7749,
+  "lng": -122.4194
+ },
+ {
+  "title": "Silicon Valley Physical AI Workshop and Meetup - October 27, 2026",
+  "start": "2026-10-27T17:30",
+  "location": "Silicon Valley AI Hub, 135 Constitution Dr, Menlo Park, CA 94025",
+  "category": "AI",
+  "url": "https://voxel51.com/events/silicon-valley-physical-ai-workshop-and-meetup-october-27-2026",
+  "city": "San Francisco Bay Area",
+  "lat": 37.48505,
+  "lng": -122.17622
+ },
+ {
+  "title": "クラウドエージェントMeetup #1",
+  "start": "2026-10-27T19:00",
+  "location": "御茶ノ水ソラシティ21階, 東京都千代田区神田駿河台4-6",
+  "category": "AI",
+  "url": "https://aid.connpass.com/event/409028/",
+  "city": "Tokyo",
+  "lat": 35.6995,
+  "lng": 139.7655
+ },
+ {
+  "title": "Building an Ecosystem for a Safe Physical AI Future",
+  "start": "2026-10-28",
+  "location": "Sakura Deeptech Shibuya, 東京都渋谷区桜丘町1-2 渋谷サクラステージ セントラルビル12F",
+  "category": "AI",
+  "url": "https://luma.com/npfm6hho",
+  "city": "Tokyo",
+  "lat": 35.6553,
+  "lng": 139.7015
+ },
+ {
+  "title": "GitHub Universe 2026",
+  "start": "2026-10-28",
+  "location": "Fort Mason Center for Arts & Culture, 2 Marina Blvd, San Francisco, CA 94123",
+  "category": "Dev",
+  "url": "https://githubuniverse.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.8065,
+  "lng": -122.4317
+ },
+ {
+  "title": "AI Networking Summit New York 2026",
+  "start": "2026-10-28",
+  "location": "The PENN District, 100 W 33rd St at 6th Ave, New York, NY 10001",
+  "category": "AI",
+  "url": "https://onug.net/ai-networking-summit-nyc-fall-2026/?trk=public_post_comment-text",
+  "city": "New York",
+  "lat": 40.7495,
+  "lng": -73.9893
+ },
+ {
+  "title": "Elevate 2026",
+  "start": "2026-10-28T08:00",
+  "location": "Jacob K. Javits Convention Center, 429 11th Ave, New York, NY 10001",
+  "category": "AI",
+  "url": "https://monday.com/elevate/location/flagship/",
+  "city": "New York",
+  "lat": 40.7578,
+  "lng": -74.0021
+ },
+ {
+  "title": "AI×Security Conference 2026",
+  "start": "2026-10-28T09:00",
+  "location": "KABUTO ONE HALL & CONFERENCE, 東京都中央区日本橋兜町7-1",
+  "category": "AI",
+  "url": "https://ai-x-security-con.findy-tools.io/2026",
+  "city": "Tokyo",
+  "lat": 35.6816,
+  "lng": 139.7784
+ },
+ {
+  "title": "2026北京国际建筑科技博览会BAU China",
+  "start": "2026-10-28T09:00",
+  "location": "中国国际展览中心（顺义馆）E2馆，北京市顺义区裕翔路88号",
+  "category": "Other",
+  "url": "https://www.huodongxing.com/event/1864890931600",
+  "city": "Beijing",
+  "lat": 40.0689,
+  "lng": 116.5432
+ },
+ {
+  "title": "The One About Robots Beyond the Lab",
+  "start": "2026-10-28T15:00",
+  "location": "Lorong AI @ One-North, 69 Ayer Rajah Crescent, Singapore 139961",
+  "category": "AI",
+  "url": "https://luma.com/q3lcmn8i",
+  "city": "Singapore",
+  "lat": 1.29614,
+  "lng": 103.78699
+ },
+ {
+  "title": "The London Startup Party 2026",
+  "start": "2026-10-28T18:00",
+  "location": "Big Chill, 257-259 Pentonville Rd, London N1 9NL",
+  "category": "Startup",
+  "url": "https://startupnetwork.eu/sne_events/the-london-startup-party-2026",
+  "city": "London",
+  "lat": 51.531,
+  "lng": -0.1195
+ },
+ {
+  "title": "AIエージェント実践 Night in 東京 vol.3",
+  "start": "2026-10-28T18:30",
+  "location": "東京ミッドタウン八重洲 八重洲セントラルタワー13階, 東京都中央区八重洲2-2-1",
+  "category": "AI",
+  "url": "https://ai-agent-night-in-tokyo.connpass.com/event/407736/",
+  "city": "Tokyo",
+  "lat": 35.6795,
+  "lng": 139.7685
+ },
+ {
+  "title": "IXDC2026国际体验设计大会",
+  "start": "2026-10-29",
+  "location": "广州设计之都·设计殿堂，广州市白云区黄边三横路一街1号",
+  "category": "AI",
+  "url": "https://ixdc.org/2026/",
+  "city": "Guangzhou",
+  "lat": 23.21975,
+  "lng": 113.28416
+ },
+ {
+  "title": "LLMday NYC 2026 Q4",
+  "start": "2026-10-29T09:00",
+  "location": "Microsoft Experience Center NYC, 677 Fifth Ave, New York, NY 10022",
+  "category": "AI",
+  "url": "https://llmday.com/2026-nyc-q4/",
+  "city": "New York",
+  "lat": 40.7607,
+  "lng": -73.9753
+ },
+ {
+  "title": "FlutterKaigi 2026",
+  "start": "2026-10-29T09:30",
+  "location": "浜松町コンベンションホール, 東京都港区浜松町2-3-1 日本生命浜松町クレアタワー5F・6F",
+  "category": "Dev",
+  "url": "https://flutterkaigi.connpass.com/event/387236/",
+  "city": "Tokyo",
+  "lat": 35.6566,
+  "lng": 139.7552
+ },
+ {
+  "title": "Responsible Tech Summit 2026. From Principles to Power: Embedding Accountability in the AI Era",
+  "start": "2026-10-29T10:00",
+  "location": "The Times Center, 242 W 41st St, New York, NY 10036",
+  "category": "AI",
+  "url": "https://luma.com/05z8y8xs",
+  "city": "New York",
+  "lat": 40.7563,
+  "lng": -73.9904
+ },
+ {
+  "title": "SF Ruby Meetup, October @ Persona",
+  "start": "2026-10-29T17:00",
+  "location": "Persona, 50 Beale St, Floor 16, San Francisco, CA 94105",
+  "category": "Dev",
+  "url": "https://sfruby.com/meetup/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7912,
+  "lng": -122.3968
+ },
+ {
+  "title": "AI/ML Lecture & Networking @ Intuit",
+  "start": "2026-10-29T17:00",
+  "location": "Intuit Inc, 51 Astor Pl, New York, NY 10003",
+  "category": "AI",
+  "url": "https://luma.com/812fof21",
+  "city": "New York",
+  "lat": 40.7303,
+  "lng": -73.9915
+ },
+ {
+  "title": "AIGov Meetup Singapore: Agentic AI Governance",
+  "start": "2026-10-29T18:00",
+  "location": "Thoughtworks, 18 Cross Street, #12-01, Singapore 048423",
+  "category": "AI",
+  "url": "https://www.meetup.com/tech-talks-thoughtworks-singapore/events/316959814/",
+  "city": "Singapore",
+  "lat": 1.2834,
+  "lng": 103.8466
+ },
+ {
+  "title": "After SWITCH: B71 Networking Mixer",
+  "start": "2026-10-29T18:00",
+  "location": "Rally Clubhouse, The Cannery, 3C River Valley Rd, #01-04, Singapore 179022",
+  "category": "Startup",
+  "url": "https://luma.com/9hnajvql",
+  "city": "Singapore",
+  "lat": 1.2905,
+  "lng": 103.8458
+ },
+ {
+  "title": "ClawHunt 上海黑客松",
+  "start": "2026-10-30",
+  "location": "36 SPACE, 上海市徐汇区",
+  "category": "AI",
+  "url": "https://clawhunt.store/",
+  "city": "Shanghai",
+  "lat": 31.188,
+  "lng": 121.437
+ },
+ {
+  "title": "2026国际AI黑客松",
+  "start": "2026-10-30",
+  "location": "北京（具体场地以主办方通知为准）",
+  "category": "AI",
+  "url": "https://k.sina.cn/article_1644114654_61ff32de02002bnze.html",
+  "city": "Beijing",
+  "lat": 39.9042,
+  "lng": 116.4074
+ },
+ {
+  "title": "数创新境·智启万象｜卓特视觉 × MiniMax × 野菩萨 AI 产品分享会",
+  "start": "2026-10-30",
+  "location": "218视觉工厂, 珠市口218-1F（地铁7/8号线珠市口站C口100米）, 北京东城",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/8882640525900",
+  "city": "Beijing",
+  "lat": 39.893,
+  "lng": 116.399
+ },
+ {
+  "title": "MPC 2026 | Mingdao Partner Conference",
+  "start": "2026-10-30",
+  "location": "上海虹桥新华联索菲特大酒店, 上海市闵行区泰虹路666号",
+  "category": "AI",
+  "url": "https://www.nocoly.com/landing/event/mpc/2026/",
+  "city": "Shanghai",
+  "lat": 31.2023,
+  "lng": 121.3015
+ },
+ {
+  "title": "Inaugural Artificial Intelligence and Data Law Summit",
+  "start": "2026-10-30",
+  "location": "New York Law School, 185 West Broadway, New York, NY 10013",
+  "category": "AI",
+  "url": "https://www.nyls.edu/events/inaugural-artificial-intelligence-and-data-law-summit/",
+  "city": "New York",
+  "lat": 40.7188,
+  "lng": -74.0074
+ },
+ {
+  "title": "Cloudflare Immerse Shenzhen 2026 年度峰会",
+  "start": "2026-10-30T09:00",
+  "location": "深圳蛇口希尔顿南海酒店, 深圳市南山区望海路1177号",
+  "category": "Dev",
+  "url": "https://www.bagevent.com/event/9275503",
+  "city": "Shenzhen",
+  "lat": 22.4817,
+  "lng": 113.9192
+ },
+ {
+  "title": "数创新境·智启万象｜卓特视觉 × MiniMax × 野菩萨 AI 产品分享会",
+  "start": "2026-10-30T14:00",
+  "location": "218视觉工厂一层，北京市东城区珠市口东大街甲16号218文创园",
+  "category": "AI",
+  "url": "https://www.droitstock.com/news-article/detail/856",
+  "city": "Beijing",
+  "lat": 39.8895,
+  "lng": 116.4005
+ },
+ {
+  "title": "TAI x Techstars Tokyo - August 2026 Class Showcase",
+  "start": "2026-10-30T15:00",
+  "location": "Sakura Deeptech Shibuya, 東京都渋谷区桜丘町1-2 渋谷サクラステージ セントラルビル12F",
+  "category": "AI",
+  "url": "https://luma.com/u3qly4eo",
+  "city": "Tokyo",
+  "lat": 35.6553,
+  "lng": 139.7015
+ },
+ {
+  "title": "NERDS MEETUP #1: EVAN YOU",
+  "start": "2026-10-30T18:00",
+  "location": "Singapore CBD (address shared upon registration)",
+  "category": "Dev",
+  "url": "https://luma.com/mi9hata3",
+  "city": "Singapore",
+  "lat": 1.2814,
+  "lng": 103.8501
+ },
+ {
+  "title": "下一款灵巧手长什么样",
+  "start": "2026-10-31",
+  "location": "北大科技大厦8层, 北京海淀",
+  "category": "Hardware",
+  "url": "https://www.huodongxing.com/event/1880785627100",
+  "city": "Beijing",
+  "lat": 39.984,
+  "lng": 116.312
+ },
+ {
+  "title": "第四届开放原子大赛 - 2026 开源行业解决方案创新赛",
+  "start": "2026-10-31",
+  "location": "通明湖会议中心, 北京亦庄",
+  "category": "Dev",
+  "url": "https://www.huodongxing.com/event/5877025038000",
+  "city": "Beijing",
+  "lat": 39.778,
+  "lng": 116.528
+ },
+ {
+  "title": "快手技术沙龙第6期——从研发效能走向企业AI生产力",
+  "start": "2026-10-31T13:00",
+  "location": "元中心T12-101, 西二旗中路29号, 北京海淀",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/6882086319000",
+  "city": "Beijing",
+  "lat": 40.053,
+  "lng": 116.299
+ },
+ {
+  "title": "腾讯云架构师城市沙龙 · 广州",
+  "start": "2026-10-31T14:00",
+  "location": "腾讯广州大厦512会议室，广州市海珠区芳园路99号",
+  "category": "Dev",
+  "url": "https://developer.cloud.tencent.com/salon/salon-2534",
+  "city": "Guangzhou",
+  "lat": 23.10468,
+  "lng": 113.34659
+ },
+ {
+  "title": "Daytona HackSprint Singapore - SWITCH Edition",
+  "start": "2026-10-31T15:30",
+  "location": "Singapore (address shared upon registration)",
+  "category": "AI",
+  "url": "https://luma.com/daytonasg1031",
+  "city": "Singapore",
+  "lat": 1.2975,
+  "lng": 103.8487
+ },
+ {
+  "title": "2026 AI 赛博万圣嘉年华",
+  "start": "2026-10-31T19:30",
+  "location": "同方科兴科学园, 深圳市南山区",
+  "category": "AI",
+  "url": "https://lianpu.com/city/shenzhen",
+  "city": "Shenzhen",
+  "lat": 22.5427,
+  "lng": 113.9491
+ },
+ {
+  "title": "Data & AI Conference Europe 2026",
+  "start": "2026-11-02",
+  "location": "etc.venues Fenchurch Street, 8 Fenchurch Place, London EC3M 4AJ",
+  "category": "Data",
+  "url": "https://irmuk.co.uk/data-ai-conference-2026/",
+  "city": "London",
+  "lat": 51.5115,
+  "lng": -0.079
+ },
+ {
+  "title": "OWASP Global AppSec USA 2026",
+  "start": "2026-11-02",
+  "location": "Hyatt Regency San Francisco, 5 Embarcadero Center, San Francisco, CA 94111",
+  "category": "Other",
+  "url": "https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7942,
+  "lng": -122.3958
+ },
+ {
+  "title": "Data & AI Conference Europe 2026",
+  "start": "2026-11-02T09:00",
+  "location": "etc.venues Fenchurch Street, 8 Fenchurch Place, London EC3M 4PB, UK",
+  "category": "AI",
+  "url": "https://irmuk.co.uk/?page_id=31458",
+  "city": "London",
+  "lat": 51.5117,
+  "lng": -0.0797
+ },
+ {
+  "title": "Meetup - Open Weight AI Models by Practitioners for Real Business Tasks (Kimi, GLM, DeepSeek, MiniMax, etc) + Timelocks for AI Cybersecurity",
+  "start": "2026-11-02T18:00",
+  "location": "Singapore (address shared upon registration)",
+  "category": "AI",
+  "url": "https://luma.com/oldmvewn",
+  "city": "Singapore",
+  "lat": 1.29,
+  "lng": 103.8374
+ },
+ {
+  "title": "CeMAT ASIA 2026 亚洲国际物流技术与运输系统展览会",
+  "start": "2026-11-03",
+  "location": "上海新国际博览中心, 上海市浦东新区龙阳路2345号",
+  "category": "Hardware",
+  "url": "https://www.cemat-asia.com/",
+  "city": "Shanghai",
+  "lat": 31.209,
+  "lng": 121.563
+ },
+ {
+  "title": "PTC ASIA 2026 亚洲国际动力传动与控制技术展览会",
+  "start": "2026-11-03",
+  "location": "上海新国际博览中心, 上海市浦东新区龙阳路2345号",
+  "category": "Hardware",
+  "url": "https://www.ptc-asia.com/",
+  "city": "Shanghai",
+  "lat": 31.209,
+  "lng": 121.563
+ },
+ {
+  "title": "Women in AI Security Workshop 2026",
+  "start": "2026-11-03T09:00",
+  "location": "The Royal Institute, London",
+  "category": "AI",
+  "url": "https://www.c2d3.cam.ac.uk/events/women-ai-security-workshop-2026",
+  "city": "London",
+  "lat": 51.5098,
+  "lng": -0.1424
+ },
+ {
+  "title": "Physical AI & Robotics Developer Workshop with Intel",
+  "start": "2026-11-03T11:00",
+  "location": "Civic Hall, 124 E 14th St, New York, NY 10003",
+  "category": "AI",
+  "url": "https://luma.com/newyork-6qse",
+  "city": "New York",
+  "lat": 40.7332,
+  "lng": -73.9889
+ },
+ {
+  "title": "Twilio Assemble London: The Future of Comms + AI",
+  "start": "2026-11-03T17:00",
+  "location": "CodeNode, 10 South Pl, London EC2M 7EB",
+  "category": "AI",
+  "url": "https://luma.com/7z0fyqec",
+  "city": "London",
+  "lat": 51.519,
+  "lng": -0.0857
+ },
+ {
+  "title": "Build with AI Meetup",
+  "start": "2026-11-03T18:30",
+  "location": "Bar Veloce, 176 7th Ave, New York, NY 10011",
+  "category": "AI",
+  "url": "https://luma.com/8dxvo1rl",
+  "city": "New York",
+  "lat": 40.7424,
+  "lng": -73.9986
+ },
+ {
+  "title": "第三届全国大模型与决策智能大会",
+  "start": "2026-11-04",
+  "location": "广州市，具体场地待公布（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://mm.scimeeting.cn/cn/web/index/37273",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "2026 CDIC 昌平区数字经济科创大赛——核心赛道总决赛",
+  "start": "2026-11-04",
+  "location": "昌发展AI加速中心北区四层路演大厅, 北京昌平",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/7882635384700",
+  "city": "Beijing",
+  "lat": 40.07,
+  "lng": 116.315
+ },
+ {
+  "title": "AIAS+ 2026 — AI for Scientific Discovery",
+  "start": "2026-11-04",
+  "location": "The Ritz-Carlton, San Francisco, 600 Stockton St, San Francisco, CA 94108",
+  "category": "AI",
+  "url": "https://luma.com/event/evt-sXPTFKCqxdJF1p8",
+  "city": "San Francisco Bay Area",
+  "lat": 37.792,
+  "lng": -122.4087
+ },
+ {
+  "title": "Current San Francisco 2026",
+  "start": "2026-11-04",
+  "location": "Moscone West, 800 Howard St, San Francisco, CA 94103",
+  "category": "Data",
+  "url": "https://moscone.com/events/current-san-francisco-2026",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7839,
+  "lng": -122.4037
+ },
+ {
+  "title": "Mindstone Singapore November AI Meetup",
+  "start": "2026-11-04",
+  "location": "EHL Campus (Singapore), 3 Lady Hill Rd, Singapore 258672",
+  "category": "AI",
+  "url": "https://community.mindstone.com/events/mindstone-singapore-november-ai-meetup-2026",
+  "city": "Singapore",
+  "lat": 1.3097,
+  "lng": 103.8258
+ },
+ {
+  "title": "Data Outpost",
+  "start": "2026-11-04T08:30",
+  "location": "Convene, 100 Stockton St, San Francisco, CA 94108",
+  "category": "Data",
+  "url": "https://www.dataoutpost.ai/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7878,
+  "lng": -122.4065
+ },
+ {
+  "title": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
+  "start": "2026-11-04T13:00",
+  "location": "Snowflake Silicon Valley AI Hub, 135 Constitution Dr, Floor 8, Menlo Park, CA 94025",
+  "category": "AI",
+  "url": "https://luma.com/nov-hackathon-2026",
+  "city": "San Francisco Bay Area",
+  "lat": 37.48505,
+  "lng": -122.17622
+ },
+ {
+  "title": "Mindstone Singapore November AI Meetup",
+  "start": "2026-11-04T18:30",
+  "location": "EHL Campus (Singapore), 3 Lady Hill Road, Singapore 258672",
+  "category": "AI",
+  "url": "https://www.meetup.com/mindstone-singapore-ai-meetup/events/316567489/",
+  "city": "Singapore",
+  "lat": 1.3124,
+  "lng": 103.8253
+ },
+ {
+  "title": "今月のAIニュース・最新ツール情報",
+  "start": "2026-11-04T19:00",
+  "location": "Tatami Works イベントスペース, 東京都世田谷区船橋1-10-8 植松ビル301",
+  "category": "AI",
+  "url": "https://tatamiworks.connpass.com/event/409204/",
+  "city": "Tokyo",
+  "lat": 35.6479,
+  "lng": 139.6238
+ },
+ {
+  "title": "Meetup | 会社が全力でAI推進したら、PMの働き方はどう変わる？",
+  "start": "2026-11-04T19:00",
+  "location": "六本木ヒルズ森タワー, 東京都港区六本木6-10-1",
+  "category": "AI",
+  "url": "https://mercari.connpass.com/event/409144/",
+  "city": "Tokyo",
+  "lat": 35.6604,
+  "lng": 139.7292
+ },
+ {
+  "title": "AI駆動開発のループに人はどう関わるか ― 開発フローに落とし込んだ3社の現在地 ―",
+  "start": "2026-11-04T19:00",
+  "location": "ヒューリック銀座7丁目ビル3F, 東京都中央区銀座7-3-5",
+  "category": "AI",
+  "url": "https://algomatic.connpass.com/event/406439/",
+  "city": "Tokyo",
+  "lat": 35.67,
+  "lng": 139.762
+ },
+ {
+  "title": "World AI Regulation Summit 2026 (#AIR26)",
+  "start": "2026-11-05",
+  "location": "The Pelligon, 43 Bank Street, Canary Wharf, London E14 5NX",
+  "category": "AI",
+  "url": "https://worldairegulation.org/",
+  "city": "London",
+  "lat": 51.504,
+  "lng": -0.0215
+ },
+ {
+  "title": "Tech Leaders Meetup - London",
+  "start": "2026-11-05",
+  "location": "Founder's Arms, 52 Hopton St, London SE1 9JH",
+  "category": "Dev",
+  "url": "https://luma.com/myp6spnr",
+  "city": "London",
+  "lat": 51.5083,
+  "lng": -0.103
+ },
+ {
+  "title": "AI Engineer Shanghai 2026",
+  "start": "2026-11-05",
+  "location": "Hilton Shanghai Hongqiao, 上海市红松东路1116号",
+  "category": "AI",
+  "url": "https://ai.engineer/shanghai/2026",
+  "city": "Shanghai",
+  "lat": 31.196,
+  "lng": 121.385
+ },
+ {
+  "title": "AI+硬科技科创资本项目路演对接会",
+  "start": "2026-11-05",
+  "location": "上海市黄浦区",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/7879082540400",
+  "city": "Shanghai",
+  "lat": 31.2317,
+  "lng": 121.4846
+ },
+ {
+  "title": "AI For Future - 2nd Edition - Pitching, Funding and Speech",
+  "start": "2026-11-05",
+  "location": "Mind the Bridge, 450 Townsend St, San Francisco, CA 94107",
+  "category": "Startup",
+  "url": "https://luma.com/pr209v8d?utm_source=site",
+  "city": "San Francisco Bay Area",
+  "lat": 37.777,
+  "lng": -122.398
+ },
+ {
+  "title": "SKS JAPAN 2026",
+  "start": "2026-11-05",
+  "location": "室町三井ホール&カンファレンス, 東京都中央区日本橋室町3-2-1",
+  "category": "Startup",
+  "url": "https://sks.unlocx.tech/2026/",
+  "city": "Tokyo",
+  "lat": 35.687,
+  "lng": 139.7735
+ },
+ {
+  "title": "Artificial Intelligence in Financial Services Conference 2026 APAC",
+  "start": "2026-11-05",
+  "location": "W Singapore - Sentosa Cove, 21 Ocean Way, Singapore 098374",
+  "category": "AI",
+  "url": "https://aiinfinancesummit.com/APAC/en/page/home",
+  "city": "Singapore",
+  "lat": 1.2443,
+  "lng": 103.8418
+ },
+ {
+  "title": "AI时代：人类心智与社会",
+  "start": "2026-11-05T08:00",
+  "location": "北京大学（具体会场另行通知），北京市海淀区颐和园路5号",
+  "category": "AI",
+  "url": "https://indico.pku.edu.cn/event/71/",
+  "city": "Beijing",
+  "lat": 39.986,
+  "lng": 116.306
+ },
+ {
+  "title": "AIAS+ 2026 — AI for Scientific Discovery",
+  "start": "2026-11-05T08:00",
+  "location": "The Ritz-Carlton, San Francisco, 600 Stockton St, San Francisco, CA 94108",
+  "category": "AI",
+  "url": "https://www.aiasplus.org/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7917,
+  "lng": -122.4075
+ },
+ {
+  "title": "AgentCon - Singapore",
+  "start": "2026-11-05T08:30",
+  "location": "Singapore University of Technology and Design, 8 Somapah Road, Singapore 487372",
+  "category": "AI",
+  "url": "https://globalai.community/e/awgteae7",
+  "city": "Singapore",
+  "lat": 1.3413,
+  "lng": 103.9638
+ },
+ {
+  "title": "db tech showcase 2026 Tokyo",
+  "start": "2026-11-05T09:00",
+  "location": "TKPガーデンシティPREMIUM東京駅大手町, 東京都千代田区大手町2-1-1 大成大手町ビル17F",
+  "category": "Data",
+  "url": "https://www.db-tech-showcase.com/2026/",
+  "city": "Tokyo",
+  "lat": 35.6854,
+  "lng": 139.7666
+ },
+ {
+  "title": "Voice Agents Forum",
+  "start": "2026-11-05T09:00",
+  "location": "Digital Jungle SF, 972 Mission St, San Francisco, CA 94103",
+  "category": "AI",
+  "url": "https://luma.com/voiceagentssf",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7816,
+  "lng": -122.4083
+ },
+ {
+  "title": "Ceva边缘技术研讨会 · 上海",
+  "start": "2026-11-05T09:30",
+  "location": "上海张江科学城希尔顿酒店, 上海市浦东新区海科路1398号",
+  "category": "AI",
+  "url": "https://www.ceva-ip.com/symposium-2026/symposium-shanghai-2026-cn/",
+  "city": "Shanghai",
+  "lat": 31.1922,
+  "lng": 121.6231
+ },
+ {
+  "title": "2026年日台産業連携架け橋フォーラム",
+  "start": "2026-11-05T13:30",
+  "location": "TKP新橋カンファレンスセンター E15, 東京都千代田区内幸町1-3-1 幸ビルディング15F",
+  "category": "AI",
+  "url": "https://connpass.com/event/408348/",
+  "city": "Tokyo",
+  "lat": 35.6689,
+  "lng": 139.7558
+ },
+ {
+  "title": "会計・ERPのMCPってどう使えるの？ マネーフォワード・freee・NetSuite 登壇",
+  "start": "2026-11-05T19:00",
+  "location": "東京日本橋タワー, 東京都中央区日本橋2-7-1",
+  "category": "AI",
+  "url": "https://jmbc.connpass.com/event/409049/",
+  "city": "Tokyo",
+  "lat": 35.6815,
+  "lng": 139.7735
+ },
+ {
+  "title": "ECS2026 第11届电子通信与半导体数字科技大会暨AI大会",
+  "start": "2026-11-06T08:00",
+  "location": "北京西城",
+  "category": "Hardware",
+  "url": "https://www.huodongxing.com/event/7876870839900",
+  "city": "Beijing",
+  "lat": 39.9123,
+  "lng": 116.366
+ },
+ {
+  "title": "AI for Health 2026",
+  "start": "2026-11-06T09:30",
+  "location": "BCS, The Chartered Institute for IT, 25 Copthall Avenue, London EC2R 7BP",
+  "category": "AI",
+  "url": "https://www.eventbrite.co.uk/e/ai-for-health-2026-tickets-1990787464898",
+  "city": "London",
+  "lat": 51.5163,
+  "lng": -0.087
+ },
+ {
+  "title": "[Nov 6 | Beijing] German Chamber AI Roundtable: From New Regulation to Real-World AI",
+  "start": "2026-11-06T09:30",
+  "location": "German Centre Beijing，DRC亮马桥外交办公大楼D1单元11层，北京市朝阳区东方东路19号",
+  "category": "AI",
+  "url": "https://www.bagevent.com/event/9276491",
+  "city": "Beijing",
+  "lat": 39.9515,
+  "lng": 116.462
+ },
+ {
+  "title": "AI for Health 2026 - Artificial Intelligence SG",
+  "start": "2026-11-06T09:30",
+  "location": "BCS, The Chartered Institute for IT, 25 Copthall Avenue, London EC2R 7BP, UK",
+  "category": "AI",
+  "url": "https://www.bcs.org/events-calendar/2026/november/ai-for-health-2026/",
+  "city": "London",
+  "lat": 51.5173,
+  "lng": -0.0873
+ },
+ {
+  "title": "⚡️ 2026 Google Devfest 谷歌开发者节",
+  "start": "2026-11-07",
+  "location": "上海中庚聚龙酒店, 上海市闵行区闵虹路80号",
+  "category": "Dev",
+  "url": "https://www.huodongxing.com/event/7865513882600",
+  "city": "Shanghai",
+  "lat": 31.17,
+  "lng": 121.395
+ },
+ {
+  "title": "复杂任务的上下文工程——长程 AI 交互中的信息管理与方向校准",
+  "start": "2026-11-07",
+  "location": "上海市闵行区",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/2878674721700",
+  "city": "Shanghai",
+  "lat": 31.1128,
+  "lng": 121.3816
+ },
+ {
+  "title": "全日本AIハッカソン 2026 決勝戦（AIフェスティバル 2026）",
+  "start": "2026-11-07",
+  "location": "ベルサール渋谷ファースト, 東京都渋谷区東1-2-20",
+  "category": "AI",
+  "url": "https://www.aifestival.jp/hackathon",
+  "city": "Tokyo",
+  "lat": 35.656,
+  "lng": 139.7087
+ },
+ {
+  "title": "谷歌开发者节2026上海站",
+  "start": "2026-11-07T09:00",
+  "location": "上海中庚聚龙酒店三层, 上海市闵行区闵虹路80号",
+  "category": "Dev",
+  "url": "https://www.gdgdevfestshanghai.com/",
+  "city": "Shanghai",
+  "lat": 31.129,
+  "lng": 121.3916
+ },
+ {
+  "title": "SF AI Research Hackathon",
+  "start": "2026-11-07T09:00",
+  "location": "San Francisco, CA (address after registration)",
+  "category": "AI",
+  "url": "https://luma.com/sht6n8du",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7749,
+  "lng": -122.4194
+ },
+ {
+  "title": "非技术人员玩转 GitHub · 给 Codex、WorkBuddy 一个项目基地—— 半天实操沙龙，让 AI 真正为你打工",
+  "start": "2026-11-08",
+  "location": "上海市闵行区",
+  "category": "Dev",
+  "url": "https://www.huodongxing.com/event/3882649503600",
+  "city": "Shanghai",
+  "lat": 31.1128,
+  "lng": 121.3816
+ },
+ {
+  "title": "AI and Games Conference 2026",
+  "start": "2026-11-10",
+  "location": "Here East, Queen Elizabeth Olympic Park, London E20 3BS",
+  "category": "AI",
+  "url": "https://www.aiandgamesconference.com/",
+  "city": "London",
+  "lat": 51.5465,
+  "lng": -0.0225
+ },
+ {
+  "title": "The MarTech Summit London",
+  "start": "2026-11-10",
+  "location": "Convene, 155 Bishopsgate, Liverpool Street, London EC2M 3YD",
+  "category": "Other",
+  "url": "https://themartechsummit.com/london",
+  "city": "London",
+  "lat": 51.519,
+  "lng": -0.0805
+ },
+ {
+  "title": "全球创业周中国站未来智能日论坛 人工智能与具身智能项目路演",
+  "start": "2026-11-10",
+  "location": "上海市杨浦区",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/3878898914500",
+  "city": "Shanghai",
+  "lat": 31.2595,
+  "lng": 121.526
+ },
+ {
+  "title": "AI Engineer Code Summit 2026",
+  "start": "2026-11-10",
+  "location": "Hilton Union Square, 333 O'Farrell St, San Francisco, CA 94102",
+  "category": "AI",
+  "url": "https://ai.engineer/code/2026",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7859,
+  "lng": -122.4105
+ },
+ {
+  "title": "UKsec Cyber Security Summit",
+  "start": "2026-11-10",
+  "location": "Millennium Gloucester Hotel London Kensington, 4-18 Harrington Gardens, London SW7 4LH, UK",
+  "category": "Other",
+  "url": "https://uk.cyberseries.io/",
+  "city": "London",
+  "lat": 51.4939,
+  "lng": -0.182
+ },
+ {
+  "title": "Brand & AI Safety Summit New York 2026",
+  "start": "2026-11-10",
+  "location": "Chelsea Industrial, 535–551 W 28th St, New York, NY 10001",
+  "category": "AI",
+  "url": "https://brandsafetysummit.com/newyork-26",
+  "city": "New York",
+  "lat": 40.7513,
+  "lng": -74.0034
+ },
+ {
+  "title": "San Francisco Ruby Conference 2026",
+  "start": "2026-11-10T09:15",
+  "location": "SFJAZZ Center, 201 Franklin St, San Francisco, CA 94102",
+  "category": "Dev",
+  "url": "https://sfruby.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7761,
+  "lng": -122.4218
+ },
+ {
+  "title": "企业级AI项目合作沟通会：2026可入局的人工智能项目【北京】",
+  "start": "2026-11-10T14:00",
+  "location": "凤凰置地广场H座5楼, 北京朝阳",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/4873712951300",
+  "city": "Beijing",
+  "lat": 39.956,
+  "lng": 116.47
+ },
+ {
+  "title": "AI Tinkerers Singapore x ElevenLabs: Build Voice AI & Creative Agents",
+  "start": "2026-11-10T17:30",
+  "location": "Grab HQ, 3 Media Close, one-north, Singapore 138498",
+  "category": "AI",
+  "url": "https://singapore.aitinkerers.org/p/ai-tinkerers-singapore-x-elevenlabs-build-voice-ai-creative-agents",
+  "city": "Singapore",
+  "lat": 1.2928,
+  "lng": 103.7934
+ },
+ {
+  "title": "Singapore AI & Robotics Demo Night (Nov 2026)",
+  "start": "2026-11-10T18:30",
+  "location": "National Library Building, Level 7 Launch Programme Room, 100 Victoria Street, Singapore 188064",
+  "category": "AI",
+  "url": "https://luma.com/i1fsp2ho",
+  "city": "Singapore",
+  "lat": 1.2976,
+  "lng": 103.8545
+ },
+ {
+  "title": "AI Creative Summit 2026",
+  "start": "2026-11-11",
+  "location": "BFI Southbank, Belvedere Rd, London SE1 8XT",
+  "category": "AI",
+  "url": "https://www.aicreativesummit.co.uk/",
+  "city": "London",
+  "lat": 51.5068,
+  "lng": -0.1153
+ },
+ {
+  "title": "Event Tech Live London",
+  "start": "2026-11-11",
+  "location": "ExCeL London, 1 Western Gateway, Royal Victoria Dock, London E16 1XL",
+  "category": "Other",
+  "url": "https://eventtechlive.com",
+  "city": "London",
+  "lat": 51.5081,
+  "lng": 0.0295
+ },
+ {
+  "title": "NexTech Week 2026 秋（AI・人工知能EXPO 他）",
+  "start": "2026-11-11",
+  "location": "幕張メッセ 1～3ホール, 千葉県千葉市美浜区中瀬2-1",
+  "category": "AI",
+  "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+  "city": "Tokyo",
+  "lat": 35.648,
+  "lng": 140.0346
+ },
+ {
+  "title": "Groundworks — Edition One",
+  "start": "2026-11-11T08:00",
+  "location": "UCL Here East, Queen Elizabeth Olympic Park, Stratford, London E20 3BS, UK",
+  "category": "Hardware",
+  "url": "https://www.groundworkssummit.com/",
+  "city": "London",
+  "lat": 51.5475,
+  "lng": -0.0227
+ },
+ {
+  "title": "Leading Design London 2026",
+  "start": "2026-11-11T09:00",
+  "location": "Barbican Centre, Silk St, London EC2Y 8DS",
+  "category": "Other",
+  "url": "https://leadingdesign.com/conferences/london-2026",
+  "city": "London",
+  "lat": 51.5202,
+  "lng": -0.0937
+ },
+ {
+  "title": "Connected Data London 2026",
+  "start": "2026-11-11T09:30",
+  "location": "Leonardo Royal Hotel London Tower Bridge, 45 Prescot Street, London E1 8GP, UK",
+  "category": "Data",
+  "url": "https://2026.connected-data.london/",
+  "city": "London",
+  "lat": 51.5111,
+  "lng": -0.0725
+ },
+ {
+  "title": "NexTech Week 2026【秋】",
+  "start": "2026-11-11T10:00",
+  "location": "幕張メッセ 国際展示場1〜3ホール, 千葉県千葉市美浜区中瀬2-1",
+  "category": "AI",
+  "url": "https://www.nextech-week.jp/autumn/ja-jp/about.html",
+  "city": "Tokyo",
+  "lat": 35.6483,
+  "lng": 140.0345
+ },
+ {
+  "title": "バイブコーディング甲子園 ─ 職種不問・即席ペアで生成AIアプリ開発対決",
+  "start": "2026-11-11T19:00",
+  "location": "青山オーバルビル9階, 東京都渋谷区神宮前5-52-2",
+  "category": "AI",
+  "url": "https://connpass.com/event/409187/",
+  "city": "Tokyo",
+  "lat": 35.664,
+  "lng": 139.7085
+ },
+ {
+  "title": "创新中国论坛2026 – Powering AI | 赋能AI",
+  "start": "2026-11-12",
+  "location": "上海市杨浦区",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/8878455983900",
+  "city": "Shanghai",
+  "lat": 31.2595,
+  "lng": 121.526
+ },
+ {
+  "title": "百度世界2026「下一幕，智能组织」",
+  "start": "2026-11-12",
+  "location": "国家会议中心二期, 北京朝阳",
+  "category": "AI",
+  "url": "https://www.news.cn/info/20261013/49036669d777466eb38281067aee2da5/c.html",
+  "city": "Beijing",
+  "lat": 40.003,
+  "lng": 116.388
+ },
+ {
+  "title": "AI for Science · OPC创新挑战赛（黑客松）",
+  "start": "2026-11-12",
+  "location": "北京怀柔科学城",
+  "category": "AI",
+  "url": "https://opc.book2048.com/",
+  "city": "Beijing",
+  "lat": 40.404,
+  "lng": 116.68
+ },
+ {
+  "title": "IC China 2026第26届中国国际半导体博览会",
+  "start": "2026-11-12",
+  "location": "国家会议中心, 北京朝阳",
+  "category": "Hardware",
+  "url": "https://www.huodongxing.com/event/1861608194000",
+  "city": "Beijing",
+  "lat": 39.999,
+  "lng": 116.388
+ },
+ {
+  "title": "King's AI Summit: Agents of Science",
+  "start": "2026-11-12T09:00",
+  "location": "London Institute for Healthcare Engineering, 100 Lambeth Palace Road, London SE1 7AR",
+  "category": "AI",
+  "url": "https://www.eventbrite.co.uk/e/kings-ai-summit-agents-of-science-tickets-2002116846383",
+  "city": "London",
+  "lat": 51.4985,
+  "lng": -0.118
+ },
+ {
+  "title": "SGLang Summit 2026 by LMSYS",
+  "start": "2026-11-12T09:00",
+  "location": "Fort Mason Center, 2 Marina Blvd, San Francisco, CA 94123",
+  "category": "AI",
+  "url": "https://luma.com/event/evt-aDqsOXqkFFJVnwm",
+  "city": "San Francisco Bay Area",
+  "lat": 37.8065,
+  "lng": -122.4317
+ },
+ {
+  "title": "Cerebral Valley AI Summit",
+  "start": "2026-11-12T09:30",
+  "location": "San Francisco, CA (venue shared with registered attendees)",
+  "category": "AI",
+  "url": "https://cerebralvalleysummit.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7749,
+  "lng": -122.4194
+ },
+ {
+  "title": "Security by Design: Ship Fast Without Shipping Holes - A Breakfast Huddle",
+  "start": "2026-11-12T10:00",
+  "location": "Lorong AI @ One-North, 69 Ayer Rajah Cres., Level 3 Vidacity, Singapore 139961",
+  "category": "Dev",
+  "url": "https://luma.com/74cdfm10",
+  "city": "Singapore",
+  "lat": 1.2967,
+  "lng": 103.7871
+ },
+ {
+  "title": "Next Growth with AI",
+  "start": "2026-11-12T14:00",
+  "location": "TKPガーデンシティPREMIUM池袋, 東京都豊島区南池袋1-16-15 ダイヤゲート池袋4F",
+  "category": "AI",
+  "url": "https://generative-ai-conf.connpass.com/event/410030/",
+  "city": "Tokyo",
+  "lat": 35.7267,
+  "lng": 139.7113
+ },
+ {
+  "title": "2026 StartOut Demo Day - San Francisco",
+  "start": "2026-11-12T17:00",
+  "location": "4 Embarcadero Center, Suite 1400, San Francisco, CA 94111",
+  "category": "Startup",
+  "url": "https://www.eventbrite.com/e/2026-startout-demo-day-san-francisco-tickets-2002631904937",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7953,
+  "lng": -122.3966
+ },
+ {
+  "title": "Shinjuku | Claude for SMBs",
+  "start": "2026-11-12T18:30",
+  "location": "快・決 いい会議室 新宿店 HALL B, 東京都新宿区歌舞伎町2-4-10 KDX東新宿ビル3F",
+  "category": "AI",
+  "url": "https://luma.com/claude-k18t",
+  "city": "Tokyo",
+  "lat": 35.6966,
+  "lng": 139.707
+ },
+ {
+  "title": "LangChain Meetup Tokyo #8",
+  "start": "2026-11-12T18:30",
+  "location": "東京ガーデンテラス紀尾井町 紀尾井タワー, 東京都千代田区紀尾井町1-3",
+  "category": "AI",
+  "url": "https://langchain.connpass.com/event/409182/",
+  "city": "Tokyo",
+  "lat": 35.679,
+  "lng": 139.7365
+ },
+ {
+  "title": "「AI駆動経営」勉強会 #4",
+  "start": "2026-11-12T19:00",
+  "location": "国際興業三田第2ビル9階, 東京都港区三田3-11-24",
+  "category": "AI",
+  "url": "https://aid.connpass.com/event/409635/",
+  "city": "Tokyo",
+  "lat": 35.648,
+  "lng": 139.742
+ },
+ {
+  "title": "若手データ界隈Meetup! vol.1",
+  "start": "2026-11-12T19:15",
+  "location": "住友不動産東京三田ガーデンタワー10F, 東京都港区三田3-5-19",
+  "category": "Data",
+  "url": "https://ivry.connpass.com/event/408205/",
+  "city": "Tokyo",
+  "lat": 35.6455,
+  "lng": 139.743
+ },
+ {
+  "title": "首届蚂蚁灵波具身大模型挑战赛（线下真机黑客马拉松决赛）",
+  "start": "2026-11-13",
+  "location": "上海（决赛场地待公布）",
+  "category": "AI",
+  "url": "https://tianchi.aliyun.com/competition/entrance/532514/",
+  "city": "Shanghai",
+  "lat": 31.2304,
+  "lng": 121.4737
+ },
+ {
+  "title": "Elastic 邀您共赴“GOTC 2026 全球开源技术峰会”",
+  "start": "2026-11-13",
+  "location": "亦庄通明湖国际会展中心, 北京大兴",
+  "category": "Dev",
+  "url": "https://www.huodongxing.com/event/6882959217600",
+  "city": "Beijing",
+  "lat": 39.778,
+  "lng": 116.528
+ },
+ {
+  "title": "Rebuild 重构 | 2026 中国企业 AI 大会",
+  "start": "2026-11-13T09:00",
+  "location": "朗丽兹西山花园酒店，北京市海淀区丰智东路13号",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/9879646835500",
+  "city": "Beijing",
+  "lat": 40.0657,
+  "lng": 116.2429
+ },
+ {
+  "title": "Convergence Summit | Singapore Fintech Festival 2026 Edition",
+  "start": "2026-11-13T10:00",
+  "location": "The Exchange, Singapore Land Tower, Level 4, 50 Raffles Place, Singapore 048623",
+  "category": "AI",
+  "url": "https://luma.com/7b2k08lz",
+  "city": "Singapore",
+  "lat": 1.2845,
+  "lng": 103.8514
+ },
+ {
+  "title": "Qiita Bash | AIオレオレ環境お披露目会",
+  "start": "2026-11-13T18:30",
+  "location": "住友不動産青葉台ヒルズ, 東京都目黒区青葉台4-7-7",
+  "category": "AI",
+  "url": "https://increments.connpass.com/event/406504/",
+  "city": "Tokyo",
+  "lat": 35.6505,
+  "lng": 139.6925
+ },
+ {
+  "title": "MatrixNEXT 2026 AI Builder 赛事-观众报名开启",
+  "start": "2026-11-14",
+  "location": "上海市杨浦区",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/8882685427100",
+  "city": "Shanghai",
+  "lat": 31.2595,
+  "lng": 121.526
+ },
+ {
+  "title": "FDE实战营·启航班：开启AI时代第二增长曲线",
+  "start": "2026-11-14",
+  "location": "广州市海珠区昌岗东路271号6楼",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/2878787745300",
+  "city": "Guangzhou",
+  "lat": 23.09318,
+  "lng": 113.28154
+ },
+ {
+  "title": "MatrixNEXT 2026 · AI BUILDER FESTIVAL",
+  "start": "2026-11-14",
+  "location": "复兴岛（具体会场待公布）, 上海市杨浦区",
+  "category": "AI",
+  "url": "https://www.matrixorigin.io/matrixnext",
+  "city": "Shanghai",
+  "lat": 31.285,
+  "lng": 121.559
+ },
+ {
+  "title": "BEACON 2026 - Connecting the DOTs",
+  "start": "2026-11-14T09:30",
+  "location": "Marina One Auditorium, Marina One West Tower, 9 Straits View, Singapore 018937",
+  "category": "Other",
+  "url": "https://luma.com/4uzpj4zw",
+  "city": "Singapore",
+  "lat": 1.2771,
+  "lng": 103.8523
+ },
+ {
+  "title": "GOTC 2026 · 全球开源技术峰会",
+  "start": "2026-11-14T09:30",
+  "location": "通明湖会展中心，北京经济技术开发区科谷三街与经惠东路交叉口东100米",
+  "category": "Dev",
+  "url": "https://gotc.oschina.net/",
+  "city": "Beijing",
+  "lat": 39.78,
+  "lng": 116.576
+ },
+ {
+  "title": "Kotlin Fest 2026",
+  "start": "2026-11-14T11:00",
+  "location": "東京コンファレンスセンター・品川, 東京都港区港南1-9-36 アレア品川3F〜5F",
+  "category": "Dev",
+  "url": "https://2026.kotlinfest.dev/",
+  "city": "Tokyo",
+  "lat": 35.6294,
+  "lng": 139.7413
+ },
+ {
+  "title": "CoLab Conf 2026秋【ひろゆき氏・t-wada氏・徳丸氏など豪華ゲスト】",
+  "start": "2026-11-14T12:00",
+  "location": "虎ノ門ヒルズ ステーションタワー36F, 東京都港区虎ノ門2-6-2",
+  "category": "Dev",
+  "url": "https://supporterz-seminar.connpass.com/event/406430/",
+  "city": "Tokyo",
+  "lat": 35.667,
+  "lng": 139.7495
+ },
+ {
+  "title": "AI駆動開発勉強会 Women's Base #6【Grok Bot編】",
+  "start": "2026-11-14T13:00",
+  "location": "六本木ヒルズ森タワー26F, 東京都港区六本木6-10-1",
+  "category": "AI",
+  "url": "https://aid.connpass.com/event/409136/",
+  "city": "Tokyo",
+  "lat": 35.6604,
+  "lng": 139.7292
+ },
+ {
+  "title": "Solana Breakpoint 2026",
+  "start": "2026-11-15",
+  "location": "Olympia London, Hammersmith Rd, London W14 8UX",
+  "category": "Other",
+  "url": "https://luma.com/breakpoint2026",
+  "city": "London",
+  "lat": 51.496,
+  "lng": -0.21
+ },
+ {
+  "title": "昇腾AI行业创新大赛 2026电力行业算子专场",
+  "start": "2026-11-15",
+  "location": "广州市，线下决赛具体场地待公布（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://cann-elec.gccorg.com/",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "Singapore–India Hackathon 2026",
+  "start": "2026-11-15",
+  "location": "Singapore Management University, 81 Victoria St, Singapore 188065",
+  "category": "Dev",
+  "url": "https://iie.smu.edu.sg/singapore-india-hackathon-2026",
+  "city": "Singapore",
+  "lat": 1.2966,
+  "lng": 103.8502
+ },
+ {
+  "title": "Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026)",
+  "start": "2026-11-16",
+  "location": "广州长隆酒店，广州市番禺区长隆旅游度假区",
+  "category": "AI",
+  "url": "https://2026.pricai.org/",
+  "city": "Guangzhou",
+  "lat": 23.0048,
+  "lng": 113.3222
+ },
+ {
+  "title": "QCon San Francisco 2026",
+  "start": "2026-11-16",
+  "location": "Hyatt Regency San Francisco, 5 Embarcadero Center, San Francisco, CA 94111",
+  "category": "Dev",
+  "url": "https://qconsf.com/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7942,
+  "lng": -122.3958
+ },
+ {
+  "title": "AI Coding Summit",
+  "start": "2026-11-16",
+  "location": "Liberty Science Center, 222 Jersey City Blvd, Jersey City, NJ 07305",
+  "category": "AI",
+  "url": "https://aicodingsummit.com/nyc/",
+  "city": "New York",
+  "lat": 40.7083,
+  "lng": -74.055
+ },
+ {
+  "title": "JSNation US",
+  "start": "2026-11-16",
+  "location": "Liberty Science Center, 222 Jersey City Blvd, Jersey City, NJ 07305",
+  "category": "Dev",
+  "url": "https://jsnation.us/",
+  "city": "New York",
+  "lat": 40.7083,
+  "lng": -74.055
+ },
+ {
+  "title": "AI for Education Conference (AIFE 2026 Singapore)",
+  "start": "2026-11-16T09:00",
+  "location": "National Institute of Education, Nanyang Technological University, 1 Nanyang Walk, Singapore 637616",
+  "category": "AI",
+  "url": "https://aife2026singapore.org/registration/",
+  "city": "Singapore",
+  "lat": 1.3483,
+  "lng": 103.6796
+ },
+ {
+  "title": "MLCB 2026",
+  "start": "2026-11-16T09:00",
+  "location": "New York Genome Center, 101 Avenue of the Americas, New York, NY 10013",
+  "category": "AI",
+  "url": "https://www.mlcb.org/",
+  "city": "New York",
+  "lat": 40.7249,
+  "lng": -74.0056
+ },
+ {
+  "title": "2026 Super Demo Day",
+  "start": "2026-11-16T09:30",
+  "location": "San Francisco, CA (address after registration)",
+  "category": "Startup",
+  "url": "https://luma.com/2a7wm1zs",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7917,
+  "lng": -122.3982
+ },
+ {
+  "title": "CODE BLUE 2026",
+  "start": "2026-11-17",
+  "location": "ベルサール高田馬場, 東京都新宿区大久保3-8-2 住友不動産新宿ガーデンタワー",
+  "category": "Dev",
+  "url": "https://codeblue.jp/",
+  "city": "Tokyo",
+  "lat": 35.7079,
+  "lng": 139.7033
+ },
+ {
+  "title": "AI for Transportation and Energy (AITE 2026)",
+  "start": "2026-11-17",
+  "location": "广州长隆酒店，广州市番禺区长隆旅游度假区（PRICAI研讨会，日期拟定，会议室待公布）",
+  "category": "AI",
+  "url": "https://translab-scut.github.io/aite/index.html",
+  "city": "Guangzhou",
+  "lat": 23.0048,
+  "lng": 113.3222
+ },
+ {
+  "title": "Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2026)",
+  "start": "2026-11-17",
+  "location": "广州长隆酒店，广州市番禺区长隆旅游度假区（与PRICAI同址，会议室待公布）",
+  "category": "Data",
+  "url": "https://pkawwebsite.github.io/2026/",
+  "city": "Guangzhou",
+  "lat": 23.0048,
+  "lng": 113.3222
+ },
+ {
+  "title": "【北京站】AI 重构・智焕新生——第27届中国国际建筑智能化峰会",
+  "start": "2026-11-17",
+  "location": "北京金隅喜来登酒店, 北京东城",
+  "category": "Other",
+  "url": "https://www.huodongxing.com/event/8874435419200",
+  "city": "Beijing",
+  "lat": 39.968,
+  "lng": 116.417
+ },
+ {
+  "title": "Microsoft Ignite 2026",
+  "start": "2026-11-17",
+  "location": "Moscone Center, North, South and West buildings, 747 Howard St, San Francisco, CA 94103",
+  "category": "AI",
+  "url": "https://moscone.com/events/microsoft-ignite-2026",
+  "city": "San Francisco Bay Area",
+  "lat": 37.784,
+  "lng": -122.4016
+ },
+ {
+  "title": "Unite Tokyo 2026",
+  "start": "2026-11-17",
+  "location": "ベルサール渋谷ガーデン, 東京都渋谷区桜丘町1-1",
+  "category": "Dev",
+  "url": "https://unity3d.jp/events/unite-tokyo-2026/",
+  "city": "Tokyo",
+  "lat": 35.6555,
+  "lng": 139.701
+ },
+ {
+  "title": "React Summit US",
+  "start": "2026-11-17",
+  "location": "Liberty Science Center, 222 Jersey City Blvd, Jersey City, NJ 07305",
+  "category": "Dev",
+  "url": "https://reactsummit.us/",
+  "city": "New York",
+  "lat": 40.7083,
+  "lng": -74.055
+ },
+ {
+  "title": "The AI Leadership Summit",
+  "start": "2026-11-17T07:30",
+  "location": "New York Marriott Marquis, 1535 Broadway, New York, NY 10036",
+  "category": "AI",
+  "url": "https://www.conference-board.org/events/ai-leadership/register",
+  "city": "New York",
+  "lat": 40.7586,
+  "lng": -73.9862
+ },
+ {
+  "title": "Mindstone London November AI Meetup",
+  "start": "2026-11-17T18:00",
+  "location": "Inspire St James, Clerkenwell Close, London EC1R 0EA",
+  "category": "AI",
+  "url": "https://www.meetup.com/mindstone-london-ai-meetup/events/315409607",
+  "city": "London",
+  "lat": 51.524,
+  "lng": -0.106
+ },
+ {
+  "title": "AIを本番で動かし続けるためのデータ基盤・活用のリアル",
+  "start": "2026-11-17T19:00",
+  "location": "Japan Digital Design オフィス, 東京都中央区日本橋本石町3-3-5 日本橋トークビル7F",
+  "category": "AI",
+  "url": "https://japan-d2.connpass.com/event/407118/",
+  "city": "Tokyo",
+  "lat": 35.6897,
+  "lng": 139.7713
+ },
+ {
+  "title": "Singapore FinTech Festival 2026",
+  "start": "2026-11-18",
+  "location": "Singapore EXPO, Halls 1–6, 1 Expo Drive, Singapore 486150",
+  "category": "Other",
+  "url": "https://www.fintechfestival.sg/",
+  "city": "Singapore",
+  "lat": 1.3331,
+  "lng": 103.9597
+ },
+ {
+  "title": "上海科技之旅 Tech Journey Shanghai",
+  "start": "2026-11-18",
+  "location": "上海虹桥绿地铂瑞酒店集合, 上海市青浦区诸光路1588弄100号",
+  "category": "Other",
+  "url": "https://www.hongqiaotechweek.com/shanghai-science-and-technology-tour/",
+  "city": "Shanghai",
+  "lat": 31.184,
+  "lng": 121.286
+ },
+ {
+  "title": "CloudNative Days Winter 2026",
+  "start": "2026-11-18",
+  "location": "有明セントラルタワーホール&カンファレンス, 東京都江東区有明3-7-18",
+  "category": "Dev",
+  "url": "https://cloudnativedays.jp/",
+  "city": "Tokyo",
+  "lat": 35.6355,
+  "lng": 139.792
+ },
+ {
+  "title": "CloudNative Days Winter 2026",
+  "start": "2026-11-18T10:00",
+  "location": "有明セントラルタワー ホール＆カンファレンス, 東京都江東区有明3-7-18 有明セントラルタワー3F・4F",
+  "category": "Dev",
+  "url": "https://cloudnativedays.connpass.com/event/403164/",
+  "city": "Tokyo",
+  "lat": 35.6313,
+  "lng": 139.7924
+ },
+ {
+  "title": "EdgeTech+ 2026",
+  "start": "2026-11-18T10:00",
+  "location": "パシフィコ横浜 展示ホール・アネックスホール, 神奈川県横浜市西区みなとみらい1-1-1",
+  "category": "Hardware",
+  "url": "https://www.jasa.or.jp/expo/about/",
+  "city": "Tokyo",
+  "lat": 35.4574,
+  "lng": 139.6378
+ },
+ {
+  "title": "Diffusion Models: From Foundations to a Working Application",
+  "start": "2026-11-18T18:00",
+  "location": "KERNEL HONGO, 東京都文京区本郷4-1-4 Design Place α 3F",
+  "category": "AI",
+  "url": "https://luma.com/2xie0kpe",
+  "city": "Tokyo",
+  "lat": 35.7078,
+  "lng": 139.7598
+ },
+ {
+  "title": "SaaSiest London Executive Edition",
+  "start": "2026-11-19",
+  "location": "CodeNode, 10 South Pl, London EC2M 7EB",
+  "category": "Startup",
+  "url": "https://www.saasiestlondon.com/",
+  "city": "London",
+  "lat": 51.519,
+  "lng": -0.0857
+ },
+ {
+  "title": "全域AI创新闭门路演会·Google专场",
+  "start": "2026-11-19",
+  "location": "上海市浦东新区",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/4881935842900",
+  "city": "Shanghai",
+  "lat": 31.2215,
+  "lng": 121.544
+ },
+ {
+  "title": "2026集成电路发展论坛（北京）暨第三十二届集成电路设计业展览会（ICCAD-Expo 2026）",
+  "start": "2026-11-19",
+  "location": "北人亦创国际会展中心，北京经济技术开发区荣昌东街6号",
+  "category": "Hardware",
+  "url": "https://iccad.xmtexpo.com/",
+  "city": "Beijing",
+  "lat": 39.7787,
+  "lng": 116.5208
+ },
+ {
+  "title": "FUSE San Francisco 2026",
+  "start": "2026-11-19",
+  "location": "The Foundry SF, 1425 Folsom St, San Francisco, CA 94103",
+  "category": "AI",
+  "url": "https://fuse.pointonenav.com/sf",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7728,
+  "lng": -122.4138
+ },
+ {
+  "title": "AI in Business Conference London",
+  "start": "2026-11-19T08:15",
+  "location": "Park Plaza Victoria, 239 Vauxhall Bridge Rd, London SW1V 1EQ",
+  "category": "AI",
+  "url": "https://www.aibusinessconference.co.uk/",
+  "city": "London",
+  "lat": 51.4945,
+  "lng": -0.1427
+ },
+ {
+  "title": "SIGNAL World Tour London",
+  "start": "2026-11-19T09:00",
+  "location": "Banqueting House, Whitehall, London SW1A 2ER",
+  "category": "Dev",
+  "url": "https://signal.twilio.com/london26",
+  "city": "London",
+  "lat": 51.5045,
+  "lng": -0.126
+ },
+ {
+  "title": "RoboNexus Supply Chain Workshop",
+  "start": "2026-11-19T15:00",
+  "location": "Lorong AI @ One-North, Vidacity Building, Level 3, 69 Ayer Rajah Crescent, Singapore 139961",
+  "category": "Hardware",
+  "url": "https://luma.com/z4kr75p3",
+  "city": "Singapore",
+  "lat": 1.29614,
+  "lng": 103.78699
+ },
+ {
+  "title": "2026奇点智能技术大会 / 2026 C++及系统软件技术大会",
+  "start": "2026-11-20",
+  "location": "上海（五星级酒店，场馆待公布）",
+  "category": "Dev",
+  "url": "https://ml-summit.org/",
+  "city": "Shanghai",
+  "lat": 31.2304,
+  "lng": 121.4737
+ },
+ {
+  "title": "第八届IEEE机器人、智能控制与人工智能国际学术会议（IEEE-RICAI 2026）",
+  "start": "2026-11-20",
+  "location": "深圳（具体会场以会议官网公布为准）",
+  "category": "AI",
+  "url": "https://www.ic-ricai.org/",
+  "city": "Shenzhen",
+  "lat": 22.5431,
+  "lng": 114.0579
+ },
+ {
+  "title": "ACE科技创新大会",
+  "start": "2026-11-20",
+  "location": "国家会议中心, 北京朝阳",
+  "category": "Other",
+  "url": "https://www.huodongxing.com/event/1877064492200",
+  "city": "Beijing",
+  "lat": 39.999,
+  "lng": 116.388
+ },
+ {
+  "title": "2026虹桥国际科技周",
+  "start": "2026-11-20",
+  "location": "国家会展中心（上海）, 上海市青浦区崧泽大道333号",
+  "category": "Other",
+  "url": "https://www.hongqiaotechweek.com/en/2026-agenda/",
+  "city": "Shanghai",
+  "lat": 31.189,
+  "lng": 121.294
+ },
+ {
+  "title": "2026 CRISPR 诊断开发者大会",
+  "start": "2026-11-20",
+  "location": "中国国际电子商务中心（北京锦江富园大酒店），北京经济技术开发区荣华中路11号",
+  "category": "Other",
+  "url": "https://www.cndatamed.com/events/crispr-build-2026/",
+  "city": "Beijing",
+  "lat": 39.798,
+  "lng": 116.4972
+ },
+ {
+  "title": "第十一届智造数字科技大会暨AI大会",
+  "start": "2026-11-20T09:00",
+  "location": "广州市，具体场地待公布（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/3876474684900",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "2026 虎嗅F&M创新节",
+  "start": "2026-11-21",
+  "location": "798艺术区·79罐, 北京朝阳",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/3877752533900",
+  "city": "Beijing",
+  "lat": 39.984,
+  "lng": 116.496
+ },
+ {
+  "title": "2026 Google DevFest Guangzhou AI Carnival",
+  "start": "2026-11-21T09:00",
+  "location": "广州市，具体场地待定（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "HackKings",
+  "start": "2026-11-21T10:00",
+  "location": "Bush House, King's College London Strand Campus, 30 Aldwych, London WC2B 4BG",
+  "category": "Dev",
+  "url": "https://hackkings.kcltech.co.uk",
+  "city": "London",
+  "lat": 51.5129,
+  "lng": -0.1173
+ },
+ {
+  "title": "【AI駆動開発】AIDDもくもく会（東京） #8 〜AI駆動開発で作業・相談・知見共有〜",
+  "start": "2026-11-21T13:00",
+  "location": "御茶ノ水ソラシティ21階, 東京都千代田区神田駿河台4-6",
+  "category": "AI",
+  "url": "https://aid.connpass.com/event/408867/",
+  "city": "Tokyo",
+  "lat": 35.6995,
+  "lng": 139.7655
+ },
+ {
+  "title": "The Future of AI is tiny and physical",
+  "start": "2026-11-21T19:00",
+  "location": "The Royal Institution, 21 Albemarle Street, London W1S 4BS",
+  "category": "AI",
+  "url": "https://www.eventbrite.co.uk/e/the-future-of-ai-is-tiny-and-physical-tickets-1993616375245",
+  "city": "London",
+  "lat": 51.5098,
+  "lng": -0.1424
+ },
+ {
+  "title": "The future of AI is tiny and physical",
+  "start": "2026-11-21T19:00",
+  "location": "Royal Institution, 21 Albemarle Street, London W1S 4BS, UK",
+  "category": "AI",
+  "url": "https://www.rigb.org/whats-on/future-ai-tiny-and-physical",
+  "city": "London",
+  "lat": 51.5096,
+  "lng": -0.142
+ },
+ {
+  "title": "JSConf JP 2026",
+  "start": "2026-11-22",
+  "location": "ベルサール神田, 東京都千代田区神田美土代町7",
+  "category": "Dev",
+  "url": "https://jsconf.jp/2026/",
+  "city": "Tokyo",
+  "lat": 35.6915,
+  "lng": 139.766
+ },
+ {
+  "title": "2026 DevFest Beijing",
+  "start": "2026-11-22T09:00",
+  "location": "大钟寺东路9号, 北京海淀",
+  "category": "Dev",
+  "url": "https://www.huodongxing.com/event/4879762588200",
+  "city": "Beijing",
+  "lat": 39.966,
+  "lng": 116.344
+ },
+ {
+  "title": "2026 DevFest Beijing",
+  "start": "2026-11-22T09:30",
+  "location": "京仪大酒店，北京市海淀区大钟寺东路9号",
+  "category": "Dev",
+  "url": "https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/",
+  "city": "Beijing",
+  "lat": 39.9708,
+  "lng": 116.3317
+ },
+ {
+  "title": "JSConf JP 2026",
+  "start": "2026-11-22T10:00",
+  "location": "ベルサール神田, 東京都千代田区神田美土代町7 住友不動産神田ビル2F・3F",
+  "category": "Dev",
+  "url": "https://jsconf.jp/",
+  "city": "Tokyo",
+  "lat": 35.6929,
+  "lng": 139.7667
+ },
+ {
+  "title": "AI World Congress 2026",
+  "start": "2026-11-25",
+  "location": "The Great Hall, Kensington Conference and Events Centre, Hornton St, London W8 7NX",
+  "category": "AI",
+  "url": "https://aiconference.london/",
+  "city": "London",
+  "lat": 51.502,
+  "lng": -0.1945
+ },
+ {
+  "title": "AE Global Summit 2026: Open Problems for AI",
+  "start": "2026-11-25",
+  "location": "Friends House, 173-177 Euston Rd, London NW1 2BJ",
+  "category": "AI",
+  "url": "https://www.thinkingaboutthinking.org/ae-global-summit",
+  "city": "London",
+  "lat": 51.5275,
+  "lng": -0.131
+ },
+ {
+  "title": "AI·落地有声 - 2026 AI · 营销大会",
+  "start": "2026-11-25",
+  "location": "上海市浦东新区",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/7881963324600",
+  "city": "Shanghai",
+  "lat": 31.2215,
+  "lng": 121.544
+ },
+ {
+  "title": "【12届】GET2026教育科技大会",
+  "start": "2026-11-25",
+  "location": "北京新云南皇冠假日酒店, 北京朝阳",
+  "category": "Other",
+  "url": "https://www.huodongxing.com/event/3875861403000",
+  "city": "Beijing",
+  "lat": 39.97,
+  "lng": 116.448
+ },
+ {
+  "title": "GET2026教育科技大会",
+  "start": "2026-11-25",
+  "location": "北京新云南皇冠假日酒店，北京市朝阳区七圣中街12号云南大厦",
+  "category": "AI",
+  "url": "https://get.jiemodui.com/",
+  "city": "Beijing",
+  "lat": 39.971,
+  "lng": 116.4285
+ },
+ {
+  "title": "AI World Congress 2026",
+  "start": "2026-11-25T09:00",
+  "location": "The Great Hall, Kensington Conference and Events Centre, Hornton Street, London W8 7NX, UK",
+  "category": "AI",
+  "url": "https://aiconference.london/venue",
+  "city": "London",
+  "lat": 51.5022,
+  "lng": -0.1947
+ },
+ {
+  "title": "Data & AI London Meetup #18",
+  "start": "2026-11-25T18:00",
+  "location": "100 Liverpool Street, London EC2M 2AT",
+  "category": "Data",
+  "url": "https://www.meetup.com/data-ai-london/events/316172181",
+  "city": "London",
+  "lat": 51.5175,
+  "lng": -0.0825
+ },
+ {
+  "title": "VIP Salon: Web Data at Scale with Bright Data",
+  "start": "2026-11-25T18:00",
+  "location": "Singapore (address shared upon registration)",
+  "category": "Data",
+  "url": "https://luma.com/brightdatasg",
+  "city": "Singapore",
+  "lat": 1.2994,
+  "lng": 103.8421
+ },
+ {
+  "title": "AI Innovation Asia",
+  "start": "2026-11-26",
+  "location": "Grand Hyatt Singapore, 10 Scotts Road, Singapore 228211",
+  "category": "AI",
+  "url": "https://events.economistenterprise.com/ai-innovation-asia/",
+  "city": "Singapore",
+  "lat": 1.3068,
+  "lng": 103.8328
+ },
+ {
+  "title": "第二十八届中国国际高新技术成果交易会（高交会）",
+  "start": "2026-11-26",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Other",
+  "url": "https://www.chtf.com/liaojiegaojiaohui/zynr/benjie/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "2026 深圳科技投资大会",
+  "start": "2026-11-26",
+  "location": "深圳国际会展中心红树林C厅, 深圳市宝安区福海街道展城路1号",
+  "category": "Startup",
+  "url": "https://chtf.com/luntanjihuodong/touzidahui/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "让品牌成为大模型的“可信答案”：360赵明明拆解GEO这条新赛道-「AI与商业 行向长远」W.AWARDS金网奖2027未来商业计划领航秀",
+  "start": "2026-11-26",
+  "location": "中欧国际工商学院北京校园, 北京海淀",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/5878921362700",
+  "city": "Beijing",
+  "lat": 40.06,
+  "lng": 116.27
+ },
+ {
+  "title": "WISE2026 “请以我的名字呼唤我 CALL ME BY NAME”",
+  "start": "2026-11-26",
+  "location": "通明湖会展中心, 北京亦庄",
+  "category": "Startup",
+  "url": "https://www.huodongxing.com/event/8879638323700",
+  "city": "Beijing",
+  "lat": 39.778,
+  "lng": 116.528
+ },
+ {
+  "title": "AI赋能机器人技术创新与场景应用峰会",
+  "start": "2026-11-26T09:00",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "AI",
+  "url": "https://www.chtf.com/luntanjihuodong/gaoxinluntan/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "YAPC::Tokyo 2026",
+  "start": "2026-11-27",
+  "location": "東京ビッグサイト 会議棟, 東京都江東区有明3-11-1",
+  "category": "Dev",
+  "url": "https://yapcjapan.org/2026tokyo/",
+  "city": "Tokyo",
+  "lat": 35.6298,
+  "lng": 139.7942
+ },
+ {
+  "title": "国际人工智能及创意大会 IAICC 2026",
+  "start": "2026-11-27",
+  "location": "深圳（具体会场以大会官网公布为准）",
+  "category": "AI",
+  "url": "https://www.iaicc.cn/zh-hans/2026/",
+  "city": "Shenzhen",
+  "lat": 22.5431,
+  "lng": 114.0579
+ },
+ {
+  "title": "The 6th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM 2026)",
+  "start": "2026-11-27",
+  "location": "广州科学城总部国际酒店，广州市黄埔区科学大道288号（坐标为酒店附近估计）",
+  "category": "AI",
+  "url": "https://www.isaiim.com/",
+  "city": "Guangzhou",
+  "lat": 23.169,
+  "lng": 113.459
+ },
+ {
+  "title": "2026 International Conference on Artificial Intelligence, Privacy Protection and Network Security (AIPNS 2026)",
+  "start": "2026-11-27",
+  "location": "广州市，具体场地待公布（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://www.aipns.cn/",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "Data + AI World Tour Tokyo 2026",
+  "start": "2026-11-27",
+  "location": "ザ・プリンス パークタワー東京, 東京都港区芝公園4-8-1",
+  "category": "AI",
+  "url": "https://www.databricks.com/jp/dataaisummit/worldtour",
+  "city": "Tokyo",
+  "lat": 35.656,
+  "lng": 139.748
+ },
+ {
+  "title": "Business Technology Conference Japan 2026",
+  "start": "2026-11-27T11:00",
+  "location": "LINEヤフー株式会社 本社, 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 紀尾井タワー17F",
+  "category": "Dev",
+  "url": "https://corp-engr.connpass.com/event/408911/",
+  "city": "Tokyo",
+  "lat": 35.6799,
+  "lng": 139.7368
+ },
+ {
+  "title": "Confidential Computing勉強会",
+  "start": "2026-11-27T13:00",
+  "location": "オープンコラボレーションハブ LODGE, 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町17F",
+  "category": "AI",
+  "url": "https://acompany.connpass.com/event/407013/",
+  "city": "Tokyo",
+  "lat": 35.6799,
+  "lng": 139.7368
+ },
+ {
+  "title": "DevFest Singapore 2026: Architecting for the Agentic Era",
+  "start": "2026-11-28T09:00",
+  "location": "Google Developer Space, 80 Pasir Panjang Road, Singapore 117372",
+  "category": "AI",
+  "url": "https://luma.com/gdgsg-devfest26-am",
+  "city": "Singapore",
+  "lat": 1.27604,
+  "lng": 103.80073
+ },
+ {
+  "title": "DevFest Singapore 2026: Prototyping from Scratch",
+  "start": "2026-11-28T13:30",
+  "location": "Google Developer Space, 80 Pasir Panjang Road, Singapore 117372",
+  "category": "AI",
+  "url": "https://luma.com/gdgsg-devfest26-pm",
+  "city": "Singapore",
+  "lat": 1.27604,
+  "lng": 103.80073
+ },
+ {
+  "title": "DevFest Singapore 2026",
+  "start": "2026-11-28T13:30",
+  "location": "Google Developer Space, 80 Pasir Panjang Rd, Singapore 117372",
+  "category": "Dev",
+  "url": "https://luma.com/gdgsg-devfest26",
+  "city": "Singapore",
+  "lat": 1.2752,
+  "lng": 103.799
+ },
+ {
+  "title": "Google Developer Group DevFest Tokyo 2026",
+  "start": "2026-11-29T12:00",
+  "location": "JPタワー ホール＆カンファレンス, 東京都千代田区丸の内2-7-2 KITTE 4F",
+  "category": "Dev",
+  "url": "https://gdg-tokyo.connpass.com/event/405628/",
+  "city": "Tokyo",
+  "lat": 35.6796,
+  "lng": 139.7645
+ },
+ {
+  "title": "XR Kaigi 2026",
+  "start": "2026-11-30",
+  "location": "東京ポートシティ竹芝 ポートホール・東京都立産業貿易センター浜松町館, 東京都港区海岸1-7-1",
+  "category": "Other",
+  "url": "https://xrkaigi.com/news/website-launched/",
+  "city": "Tokyo",
+  "lat": 35.6554,
+  "lng": 139.7593
+ },
+ {
+  "title": "XR Kaigi 2026",
+  "start": "2026-11-30",
+  "location": "東京ポートシティ竹芝, 東京都港区海岸1-7-1",
+  "category": "Hardware",
+  "url": "https://xrkaigi.com/",
+  "city": "Tokyo",
+  "lat": 35.654,
+  "lng": 139.7615
+ },
+ {
+  "title": "Innovation Leaders Summit 2026",
+  "start": "2026-11-30",
+  "location": "虎ノ門ヒルズ森タワー, 東京都港区虎ノ門1-23-1",
+  "category": "Startup",
+  "url": "https://ils.tokyo/",
+  "city": "Tokyo",
+  "lat": 35.6665,
+  "lng": 139.7495
+ },
+ {
+  "title": "AI Dev NYC 2026",
+  "start": "2026-11-30",
+  "location": "Chelsea Piers, Chelsea Piers along West St, New York, NY 10011",
+  "category": "AI",
+  "url": "https://ai-dev.deeplearning.ai/?customTrackingParam=:ow:evp:cpo::::RC_DEVT260105P00018:DevEventsPage",
+  "city": "New York",
+  "lat": 40.7468,
+  "lng": -74.0082
+ },
+ {
+  "title": "Generative AI Summit London (AIAI London)",
+  "start": "2026-12-01T09:00",
+  "location": "InterContinental London - The O2, 1 Waterview Drive, London SE10 0TW",
+  "category": "AI",
+  "url": "https://world.aiacceleratorinstitute.com/location/london",
+  "city": "London",
+  "lat": 51.502,
+  "lng": 0.005
+ },
+ {
+  "title": "ANight: Meaty Dinner Prefs + Tech Showcase/Announcing (Open Submission) + Padel/Pickleball = 🥩🍖🍗 + 📢🖥️📽️ + 🏎️🏓🎾🏃‍♂️🏃‍♀️🎠",
+  "start": "2026-12-01T18:30",
+  "location": "Singapore (address shared upon registration)",
+  "category": "AI",
+  "url": "https://luma.com/2uddo5ne",
+  "city": "Singapore",
+  "lat": 1.2895,
+  "lng": 103.8392
+ },
+ {
+  "title": "国际电子电路（深圳）展览会 HKPCA Show 2026",
+  "start": "2026-12-02",
+  "location": "深圳国际会展中心5、6、7、8号馆, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.hkpcashow.org/show/information/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "ODSC AI NYC — AI for Work Summit",
+  "start": "2026-12-02T08:00",
+  "location": "Jay Conference Center Bryant Park, 109 W 39th St, New York, NY 10018",
+  "category": "AI",
+  "url": "https://summit.ai/",
+  "city": "New York",
+  "lat": 40.7536,
+  "lng": -73.9873
+ },
+ {
+  "title": "Global AI Leaders Summit ’26",
+  "start": "2026-12-02T08:00",
+  "location": "IBM One Madison, One Madison Ave, New York, NY 10010",
+  "category": "AI",
+  "url": "https://globalaileaderssummit.com/",
+  "city": "New York",
+  "lat": 40.7414,
+  "lng": -73.9871
+ },
+ {
+  "title": "Tech-Fest",
+  "start": "2026-12-02T12:00",
+  "location": "Pace University, Room 809, 15 Beekman St, New York, NY 10038",
+  "category": "AI",
+  "url": "https://www.pace.edu/event/tech-fest",
+  "city": "New York",
+  "lat": 40.7119,
+  "lng": -74.0059
+ },
+ {
+  "title": "2026上海国际数据中心及云计算展",
+  "start": "2026-12-03",
+  "location": "上海新国际博览中心, 上海市浦东新区龙阳路2345号",
+  "category": "Data",
+  "url": "https://www.huodongxing.com/event/1874014013900",
+  "city": "Shanghai",
+  "lat": 31.212,
+  "lng": 121.56
+ },
+ {
+  "title": "EP Shanghai 2026 第三十三届上海国际电力设备及技术展览会",
+  "start": "2026-12-03",
+  "location": "上海新国际博览中心 N1-N5, W4, W5馆, 上海市浦东新区龙阳路2345号",
+  "category": "Hardware",
+  "url": "https://www.epchinashow.com/",
+  "city": "Shanghai",
+  "lat": 31.212,
+  "lng": 121.56
+ },
+ {
+  "title": "DMP 大湾区工业博览会 2026",
+  "start": "2026-12-03",
+  "location": "深圳国际会展中心, 深圳市宝安区福海街道展城路1号",
+  "category": "Hardware",
+  "url": "https://www.dmpfair.com/",
+  "city": "Shenzhen",
+  "lat": 22.69796,
+  "lng": 113.77414
+ },
+ {
+  "title": "EP Shanghai 2026 上海国际电力电工展",
+  "start": "2026-12-03",
+  "location": "上海新国际博览中心N1–N5、W4及W5馆, 上海市浦东新区龙阳路2345号",
+  "category": "Hardware",
+  "url": "https://www.epchinashow.com/EP/Idx/simp",
+  "city": "Shanghai",
+  "lat": 31.209,
+  "lng": 121.563
+ },
+ {
+  "title": "AI Engineering Summit Singapore",
+  "start": "2026-12-03T09:00",
+  "location": "Four Points by Sheraton Singapore, Riverview, 382 Havelock Road, Singapore 169629",
+  "category": "AI",
+  "url": "https://www.testingmind.com/event/aiengineeringsummit-singapore/",
+  "city": "Singapore",
+  "lat": 1.2895,
+  "lng": 103.8351
+ },
+ {
+  "title": "CDCE2026 国际数据中心展",
+  "start": "2026-12-03T09:00",
+  "location": "上海新国际博览中心, 上海市浦东新区龙阳路2345号",
+  "category": "Data",
+  "url": "https://www.cdc-expo.com/CDCE/Idx/simp",
+  "city": "Shanghai",
+  "lat": 31.209,
+  "lng": 121.563
+ },
+ {
+  "title": "AI Engineering Summit Singapore 2026",
+  "start": "2026-12-03T09:00",
+  "location": "Four Points by Sheraton Singapore, Riverview, 382 Havelock Rd, Singapore 169629",
+  "category": "AI",
+  "url": "https://www.eventbrite.com/e/ai-engineering-summit-singapore-2026-tickets-1995178186665",
+  "city": "Singapore",
+  "lat": 1.2887,
+  "lng": 103.838
+ },
+ {
+  "title": "2026 VINS Annual Conference — Artificial Intelligence and Financial Markets: Applications, Market Dynamics, and Emerging Risks",
+  "start": "2026-12-04T08:30",
+  "location": "上海纽约大学前滩校园, 上海市浦东新区杨思西路567号",
+  "category": "AI",
+  "url": "https://vins.shanghai.nyu.edu/event/2026-vins-annual-conference-call-papers",
+  "city": "Shanghai",
+  "lat": 31.149,
+  "lng": 121.478
+ },
+ {
+  "title": "Open Source Summit Japan",
+  "start": "2026-12-07",
+  "location": "虎ノ門ヒルズフォーラム, 東京都港区虎ノ門1-23-3 虎ノ門ヒルズ森タワー4F・5F",
+  "category": "Dev",
+  "url": "https://events.linuxfoundation.org/open-source-summit-japan/",
+  "city": "Tokyo",
+  "lat": 35.6668,
+  "lng": 139.7495
+ },
+ {
+  "title": "Fortune Brainstorm AI San Francisco 2026",
+  "start": "2026-12-07",
+  "location": "The St. Regis San Francisco, 125 3rd St, San Francisco, CA 94103",
+  "category": "AI",
+  "url": "https://conferences.fortune.com/event/brainstorm-ai-2026/HOME",
+  "city": "San Francisco Bay Area",
+  "lat": 37.786,
+  "lng": -122.401
+ },
+ {
+  "title": "Singapore AI & Robotics Demo Night (Dec 2026)",
+  "start": "2026-12-08T18:30",
+  "location": "National Library Building, Level 7 Launch Programme Room, 100 Victoria Street, Singapore 188064",
+  "category": "AI",
+  "url": "https://luma.com/iue679ne",
+  "city": "Singapore",
+  "lat": 1.2976,
+  "lng": 103.8545
+ },
+ {
+  "title": "亚洲绿色工厂大会与上海洁净技术与设备展览会",
+  "start": "2026-12-09",
+  "location": "上海新国际博览中心, 上海市浦东新区龙阳路2345号",
+  "category": "Hardware",
+  "url": "https://www.scte-cn.com/",
+  "city": "Shanghai",
+  "lat": 31.209,
+  "lng": 121.563
+ },
+ {
+  "title": "The AI Summit New York",
+  "start": "2026-12-09",
+  "location": "Jacob K. Javits Convention Center, 429 11th Ave, New York, NY 10001",
+  "category": "AI",
+  "url": "https://newyork.theaisummit.com/conference-program/",
+  "city": "New York",
+  "lat": 40.7578,
+  "lng": -74.0021
+ },
+ {
+  "title": "DITExpo 数字基础设施科技展",
+  "start": "2026-12-10",
+  "location": "首钢国际会展中心1号馆（四高炉），北京市石景山区石景山路68号首钢园",
+  "category": "Data",
+  "url": "https://ditexpo.com/introduce/",
+  "city": "Beijing",
+  "lat": 39.9154,
+  "lng": 116.1518
+ },
+ {
+  "title": "droidcon London 2026",
+  "start": "2026-12-10T09:00",
+  "location": "Business Design Centre, 52 Upper Street, Islington, London N1 0QH",
+  "category": "Dev",
+  "url": "https://london.droidcon.com/",
+  "city": "London",
+  "lat": 51.536,
+  "lng": -0.105
+ },
+ {
+  "title": "【广州站】AI 重构・智焕新生——第27届中国国际建筑智能化峰会",
+  "start": "2026-12-10T09:00",
+  "location": "广州东方宾馆，广州市越秀区流花路120号",
+  "category": "AI",
+  "url": "https://www.huodongxing.com/event/4874450547800",
+  "city": "Guangzhou",
+  "lat": 23.139,
+  "lng": 113.2584
+ },
+ {
+  "title": "第二十一届中国IDC产业年度大典",
+  "start": "2026-12-10T09:00",
+  "location": "首钢园四高炉（首钢国际会展中心），北京市石景山区石景山路68号首钢园",
+  "category": "Data",
+  "url": "https://www.huodongxing.com/event/3878894834600",
+  "city": "Beijing",
+  "lat": 39.9154,
+  "lng": 116.1518
+ },
+ {
+  "title": "Maker Faire Shenzhen 2026",
+  "start": "2026-12-12",
+  "location": "万科云设计公社, 深圳市南山区大石二路",
+  "category": "Hardware",
+  "url": "https://www.shenzhenmakerfaire.com/",
+  "city": "Shenzhen",
+  "lat": 22.5774,
+  "lng": 113.9294
+ },
+ {
+  "title": "The 22nd International Conference on Computational Intelligence and Security (CISec'2026)",
+  "start": "2026-12-12",
+  "location": "广州市，具体场地待公布（坐标为市中心估计）",
+  "category": "AI",
+  "url": "https://ww2.cis-lab.org/",
+  "city": "Guangzhou",
+  "lat": 23.1291,
+  "lng": 113.2644
+ },
+ {
+  "title": "72nd Annual IEEE International Electron Devices Meeting",
+  "start": "2026-12-12",
+  "location": "Hilton San Francisco Union Square, 333 O'Farrell St, San Francisco, CA 94102",
+  "category": "Hardware",
+  "url": "https://ieee-iedm.org/",
+  "city": "San Francisco Bay Area",
+  "lat": 37.7856,
+  "lng": -122.4104
+ },
+ {
+  "title": "GitHub・Meta登壇 AI Engineering Summit Tokyo 2026 冬開催",
+  "start": "2026-12-14T09:30",
+  "location": "浜松町コンベンションホール, 東京都港区浜松町2-3-1 日本生命浜松町クレアタワー",
+  "category": "AI",
+  "url": "https://findy-tools.connpass.com/event/409837/",
+  "city": "Tokyo",
+  "lat": 35.6566,
+  "lng": 139.7552
+ }
+]
