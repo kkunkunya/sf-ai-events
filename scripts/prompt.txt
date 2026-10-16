@@ -1,0 +1,4 @@
+Search the web for upcoming tech events in the San Francisco Bay Area (SF, Oakland, Berkeley, San Jose, Palo Alto, Mountain View, etc.) happening in the next 60 days. Prioritize AI events (meetups, hackathons, talks, demo days, conferences). Include other tech events too.
+Output ONLY a JSON array, no prose, no code fences. Each item:
+{"title":"","start":"YYYY-MM-DDTHH:MM (Pacific time, or YYYY-MM-DD if no time)","location":"venue, city","category":"AI|Startup|Dev|Data|Hardware|Other","url":"original event page URL"}
+Only include events with a real, working original URL you actually saw. Aim for 30+ events. Today is DATE_PLACEHOLDER.
