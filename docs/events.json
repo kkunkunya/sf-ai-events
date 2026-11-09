@@ -1,113 +1,5 @@
 [
  {
-  "title": "第九届中国国际进口博览会",
-  "start": "2026-11-08",
-  "url": "https://www.ciie.org/ciie/f/visitor/pre-book?iCode=H2020712&locale=en",
-  "city": "Shanghai",
-  "price": "¥50",
-  "site": "ciie.org",
-  "link": "ok"
- },
- {
-  "title": "AI 回答的可信度验证 — 建立结构化的 AI 质检流程",
-  "start": "2026-11-08T09:00",
-  "url": "https://lianpu.com/event/ai-hui-da-de-ke-xin-du-yan-zheng-jian-li-jie-gou-hua-de-ai-z",
-  "city": "Shanghai",
-  "price": "¥99",
-  "site": "lianpu.com",
-  "link": "ok"
- },
- {
-  "title": "Annual Startup Networking Event (Free)",
-  "start": "2026-11-08T09:00",
-  "url": "https://luma.com/5h2ckb0s",
-  "city": "San Francisco Bay Area",
-  "price": "Free",
-  "site": "luma.com",
-  "link": "ok"
- },
- {
-  "title": "WorkBuddy星巴克联名线下实操工作坊",
-  "start": "2026-11-08T09:00",
-  "url": "https://www.huodongxing.com/event/1885805839900",
-  "city": "Beijing",
-  "price": "Free",
-  "site": "huodongxing.com",
-  "link": "ok"
- },
- {
-  "title": "深度对话丘成桐院士｜闭门分享：AI时代的数学探索与人才培养",
-  "start": "2026-11-08T10:00",
-  "url": "https://www.huodongxing.com/event/4885226292400",
-  "city": "Beijing",
-  "price": "Unknown",
-  "site": "huodongxing.com",
-  "link": "ok"
- },
- {
-  "title": "影视创作主题沙龙：AI赋能影视新创作",
-  "start": "2026-11-08T13:00",
-  "url": "https://www.huodongxing.com/event/4885525226700",
-  "city": "Beijing",
-  "price": "Free",
-  "site": "huodongxing.com",
-  "link": "ok"
- },
- {
-  "title": "Rethinking Agents: Special Edition — What Happens When AI Starts Building With You?",
-  "start": "2026-11-08T13:30",
-  "url": "https://luma.com/6lpla61c",
-  "city": "San Francisco Bay Area",
-  "price": "Free",
-  "site": "luma.com",
-  "link": "ok"
- },
- {
-  "title": "Data In Motion｜具身智能的下一场数据战",
-  "start": "2026-11-08T13:45",
-  "url": "https://wh.huodongxing.com/event/1883650447800",
-  "city": "Shanghai",
-  "price": "Unknown",
-  "site": "wh.huodongxing.com",
-  "link": "ok"
- },
- {
-  "title": "FDE 企业 AI 落地工作坊 (3 小时实操)",
-  "start": "2026-11-08T14:00",
-  "url": "https://lianpu.com/event/fde-qi-ye-ai-luo-di-gong-zuo-fang-3-xiao-shi-shi-cao",
-  "city": "Shanghai",
-  "price": "Free",
-  "site": "lianpu.com",
-  "link": "ok"
- },
- {
-  "title": "AI+OPC 专场 · 应用场景篇",
-  "start": "2026-11-08T14:00",
-  "url": "https://lianpu.com/event/ai-opc-application-scenario-session",
-  "city": "Beijing",
-  "price": "¥0–¥149",
-  "site": "lianpu.com",
-  "link": "ok"
- },
- {
-  "title": "非技术人员玩转 GitHub",
-  "start": "2026-11-08T14:30",
-  "url": "https://lianpu.com/event/fei-ji-shu-ren-yuan-wan-zhuan-github-rang-ai-zhen-zheng-wei",
-  "city": "Shanghai",
-  "price": "¥99",
-  "site": "lianpu.com",
-  "link": "ok"
- },
- {
-  "title": "非技术人员玩转 GitHub · 给 Codex、WorkBuddy 一个项目基地—— 半天实操沙龙，让 AI 真正为你打工",
-  "start": "2026-11-08T14:30",
-  "url": "https://www.10100.com/hd/153918933",
-  "city": "Shanghai",
-  "price": "¥99",
-  "site": "10100.com",
-  "link": "ok"
- },
- {
   "title": "Build Day: OpenRouter x Meta",
   "start": "2026-11-09",
   "url": "https://luma.com/openro-lu9g",
@@ -261,6 +153,51 @@
   "link": "ok"
  },
  {
+  "title": "2026全球创业周·中国站复旦临港产业化创新论坛专场 | 边界之上——技术突破与产业落地的现实博弈",
+  "start": "2026-11-10",
+  "url": "https://www.huodongxing.com/event/1883660629200",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "2026可持续发展论坛重磅嘉宾呈现!专业人士实名邀请增票50张",
+  "start": "2026-11-10",
+  "url": "https://www.huodongxing.com/event/3882242123900",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "大智能、大工程、大重构：复旦教授为您解读企业AI如何跨越落地的最后一公里？",
+  "start": "2026-11-10",
+  "url": "https://www.huodongxing.com/event/2885830071811",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "EVOLVE FORUM 双城盛会 | 上海",
+  "start": "2026-11-10",
+  "url": "https://www.lianpu.com/event/evolve-forum-shuang-cheng-sheng-hui-shang-hai",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "lianpu.com",
+  "link": "ok"
+ },
+ {
+  "title": "专业人士邀请票50张·需实名——2026中国新加坡商会可持续发展论坛",
+  "start": "2026-11-10",
+  "url": "https://www.huodongxing.com/event/2883646541600",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
   "title": "After Tokens",
   "start": "2026-11-10T08:00",
   "url": "https://luma.com/after-tokens",
@@ -356,6 +293,15 @@
   "url": "https://www.huodongxing.com/event/6884973843300",
   "city": "Shanghai",
   "price": "Free",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "全球创业周中国站分会场 ——AI人工智能・具身智能项目路演",
+  "start": "2026-11-10T13:30 (local time)",
+  "url": "https://www.huodongxing.com/event/5879639384100",
+  "city": "Shanghai",
+  "price": "Unknown",
   "site": "huodongxing.com",
   "link": "ok"
  },
@@ -528,6 +474,15 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
+  "link": "ok"
+ },
+ {
+  "title": "2026能源向绿・金融向实・智能向新 —— 零碳、数智与金融发展大会",
+  "start": "2026-11-11T13:00 (local time)",
+  "url": "https://www.huodongxing.com/event/9884939045500",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "huodongxing.com",
   "link": "ok"
  },
  {
@@ -816,6 +771,15 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
+  "link": "ok"
+ },
+ {
+  "title": "AI, Meet A11y: Building Access at the Speed of Now",
+  "start": "2026-11-12T18:00",
+  "url": "https://www.meetup.com/a11ybay/events/317249524/",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "meetup.com",
   "link": "ok"
  },
  {
@@ -1116,6 +1080,15 @@
   "link": "ok"
  },
  {
+  "title": "怀客松 HuaiKathon 2026 · 创造未有",
+  "start": "2026-11-14T09:00",
+  "url": "https://lianpu.com/event/huai-kathon-2026",
+  "city": "Beijing",
+  "price": "Unknown",
+  "site": "lianpu.com",
+  "link": "ok"
+ },
+ {
   "title": "GOTC 2026 · 全球开源技术峰会",
   "start": "2026-11-14T09:30",
   "url": "https://gotc.oschina.net/",
@@ -1138,6 +1111,24 @@
   "start": "2026-11-14T10:00",
   "url": "https://www.eventbrite.com/e/rakuten-ai-technology-conference-2026-shanghai-satellite-tickets-2002487028608",
   "city": "Shanghai",
+  "price": "Free",
+  "site": "eventbrite.com",
+  "link": "ok"
+ },
+ {
+  "title": "SearchHack: Build the next layer of AI search",
+  "start": "2026-11-14T10:00",
+  "url": "https://luma.com/e13wf1bd",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "luma.com",
+  "link": "unsure"
+ },
+ {
+  "title": "Techs on Decks 2026",
+  "start": "2026-11-14T10:00",
+  "url": "https://www.eventbrite.com/e/techs-on-decks-2026-tickets-1985848184377",
+  "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "eventbrite.com",
   "link": "ok"
@@ -1194,6 +1185,24 @@
   "city": "Beijing",
   "price": "¥0–¥1999",
   "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "AI 工具装满了，第一单在哪？",
+  "start": "2026-11-14T14:00",
+  "url": "https://lianpu.com/event/ai-tool-packed-first-order",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "lianpu.com",
+  "link": "ok"
+ },
+ {
+  "title": "AI Coffee Chat：FDE Company 主题分享",
+  "start": "2026-11-14T14:00",
+  "url": "https://lianpu.com/event/ai-coffee-chat-fde-company-shenzhen",
+  "city": "Beijing",
+  "price": "¥30",
+  "site": "lianpu.com",
   "link": "ok"
  },
  {
@@ -1323,12 +1332,39 @@
   "link": "ok"
  },
  {
+  "title": "GPU Detective Stories: PyTorch Recompiles & Hidden Bottlenecks",
+  "start": "2026-11-16T09:00",
+  "url": "https://www.meetup.com/ai-performance-engineering-sf2/events/315923028/",
+  "city": "San Francisco Bay Area",
+  "price": "Free",
+  "site": "meetup.com",
+  "link": "ok"
+ },
+ {
   "title": "2026 蚂蚁灵波具身大模型挑战赛总决赛暨首届开发者大会",
   "start": "2026-11-16T09:30",
   "url": "https://www.bagevent.com/event/ticket/9187350",
   "city": "Shanghai",
   "price": "Free",
   "site": "bagevent.com",
+  "link": "ok"
+ },
+ {
+  "title": "Practical AI Workflow Lab",
+  "start": "2026-11-16T13:30",
+  "url": "https://stayhappening.com/e/practical-ai-workflow-lab-E118SB7L5TG3G",
+  "city": "San Francisco Bay Area",
+  "price": "$0.00-$69.00",
+  "site": "stayhappening.com",
+  "link": "ok"
+ },
+ {
+  "title": "Ben Buchanan: Superintelligence, Superpowers, and the Fate of the World",
+  "start": "2026-11-16T18:30",
+  "url": "https://www.eventbrite.com/e/ben-buchanan-superintelligence-superpowers-and-the-fate-of-the-world-tickets-2002963912982",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
   "link": "ok"
  },
  {
@@ -1386,6 +1422,33 @@
   "link": "unsure"
  },
  {
+  "title": "Small Business AI Builder Tour: San Francisco",
+  "start": "2026-11-17T09:00",
+  "url": "https://www.bluehost.com/en-ca/smb-ai-builder-tour/san-francisco",
+  "city": "San Francisco Bay Area",
+  "price": "Free",
+  "site": "bluehost.com",
+  "link": "unsure"
+ },
+ {
+  "title": "Backprop Summit",
+  "start": "2026-11-17T09:00",
+  "url": "https://tokensand.ai/backprop",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "tokensand.ai",
+  "link": "ok"
+ },
+ {
+  "title": "2026 Super Demo Day",
+  "start": "2026-11-17T09:30",
+  "url": "https://luma.com/oss4ai",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "luma.com",
+  "link": "unsure"
+ },
+ {
   "title": "Microsoft Ignite 2026",
   "start": "2026-11-17T10:00",
   "url": "https://www.reworked.co/events/conference/microsoft-ignite-san-francisco-2026/",
@@ -1422,6 +1485,15 @@
   "link": "ok"
  },
  {
+  "title": "〖北京站〗AI 重构・智焕新生——第27届中国国际建筑智能化峰会",
+  "start": "2026-11-17T13:00",
+  "url": "https://lianpu.com/event/ai-zhong-gou-zhi-huan-xin-sheng-di-27-jie-zhong-guo-guo-ji-j",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "lianpu.com",
+  "link": "ok"
+ },
+ {
   "title": "In Production: OpenRouter x ElevenLabs",
   "start": "2026-11-17T17:30",
   "url": "https://luma.com/wvw8xwsi",
@@ -1437,6 +1509,15 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
+  "link": "ok"
+ },
+ {
+  "title": "Build Your First Phone Voice Agent — Deepgram × Vapi Workshop",
+  "start": "2026-11-17T18:00",
+  "url": "https://www.voiceaispace.com/events/build-your-first-phone-voice-agent--deepgram--vapi-workshop",
+  "city": "San Francisco Bay Area",
+  "price": "Free",
+  "site": "voiceaispace.com",
   "link": "ok"
  },
  {
@@ -1539,6 +1620,24 @@
   "link": "ok"
  },
  {
+  "title": "Klinikum+/ How AI is Reshaping Medicine",
+  "start": "2026-11-18T19:00",
+  "url": "https://www.eventbrite.com/e/klinikum-how-ai-is-reshaping-medicine-tickets-2001457220424",
+  "city": "San Francisco Bay Area",
+  "price": "$77.77",
+  "site": "eventbrite.com",
+  "link": "ok"
+ },
+ {
+  "title": "AI & Tech Networking Event in San Francisco by Ascent Valley",
+  "start": "2026-11-18T19:00",
+  "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-san-francisco-by-ascent-valley-tickets-1999531248791",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
+  "link": "ok"
+ },
+ {
   "title": "LexTalk World Conference & Exhibition San Francisco 2026",
   "start": "2026-11-19T08:00",
   "url": "https://luma.com/jpa12p0c",
@@ -1566,6 +1665,15 @@
   "link": "ok"
  },
  {
+  "title": "2026 非凡大赏 · AI 创造者大会 | 北京",
+  "start": "2026-11-19T09:00",
+  "url": "https://lianpu.com/event/2026-fei-fan-da-shang-ai-chuang-zao-zhe-da-hui-bei-jing",
+  "city": "Beijing",
+  "price": "Unknown",
+  "site": "lianpu.com",
+  "link": "ok"
+ },
+ {
   "title": "全域AI创新闭门路演会·Google专场",
   "start": "2026-11-19T13:30",
   "url": "https://www.huodongxing.com/event/4881935842900",
@@ -1581,6 +1689,15 @@
   "city": "Beijing",
   "price": "Free",
   "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "企业级 Multi-AI Agent 实战工坊",
+  "start": "2026-11-19T14:00",
+  "url": "https://lianpu.com/event/enterprise-multi-ai-agent-workshop",
+  "city": "Beijing",
+  "price": "Unknown",
+  "site": "lianpu.com",
   "link": "ok"
  },
  {
@@ -1743,6 +1860,33 @@
   "city": "Shanghai",
   "price": "¥3280",
   "site": "bagevent.com",
+  "link": "ok"
+ },
+ {
+  "title": "HONGQIAO TECH WEEK 2026",
+  "start": "2026-11-20",
+  "url": "https://www.hongqiaotechweek.com/en/2026-agenda/",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "hongqiaotechweek.com",
+  "link": "ok"
+ },
+ {
+  "title": "GAMES 2026",
+  "start": "2026-11-20",
+  "url": "https://games-cn.org/games2026/static/pdf/meeting_notice_stamped.pdf",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "games-cn.org",
+  "link": "ok"
+ },
+ {
+  "title": "Global C++ and System Software Technology Conference",
+  "start": "2026-11-20",
+  "url": "https://techeventsmap.com/countries/china/",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "techeventsmap.com",
   "link": "ok"
  },
  {
@@ -2475,6 +2619,15 @@
   "link": "unsure"
  },
  {
+  "title": "2026 QNX China Developer Conference",
+  "start": "2026-12-03",
+  "url": "https://www.reddit.com/r/BB_Stock/comments/1xrey14/qnx_2026_developer_conference_december_3rd/",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "reddit.com",
+  "link": "unsure"
+ },
+ {
   "title": "Retrofit or Reimagine: An Agentic AI Business Strategy Workshop",
   "start": "2026-12-03T08:30",
   "url": "https://luma.com/AgenticAIStrategy",
@@ -2562,7 +2715,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "San Francisco AI, Tech & Finance Networking Event",
@@ -2571,6 +2724,24 @@
   "city": "San Francisco Bay Area",
   "price": "$9.85",
   "site": "eventbrite.ca",
+  "link": "ok"
+ },
+ {
+  "title": "San Francisco AI, Tech & Finance Networking Event",
+  "start": "2026-12-03T19:00",
+  "url": "https://www.eventbrite.com/d/ca--san-francisco/business--events--ai-events/?page=2",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
+  "link": "ok"
+ },
+ {
+  "title": "AI Revolution December 4th",
+  "start": "2026-12-04T08:30",
+  "url": "https://www.eventbrite.com/e/ai-revolution-december-4th-tickets-2001395770626",
+  "city": "San Francisco Bay Area",
+  "price": "$29.99",
+  "site": "eventbrite.com",
   "link": "ok"
  },
  {
@@ -2616,7 +2787,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "DIA中国药品法规事务社区 线下沙龙活动 —— AI赋能全球药品研发和注册的智能化实践",
@@ -2634,7 +2805,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "AI Demo Night at the AWS Builder Loft",
@@ -2679,7 +2850,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Mango Hacks 2026",
@@ -2697,7 +2868,7 @@
   "city": "San Francisco Bay Area",
   "price": "$159",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Physical AI for Science Summit in SF | Why hasn't AI cured cancer or designed room-temperature superconductors yet?",
@@ -2706,7 +2877,7 @@
   "city": "San Francisco Bay Area",
   "price": "$150",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Committee of 100 Greater China Conference & Gala 2026",
@@ -2715,7 +2886,7 @@
   "city": "Shanghai",
   "price": "$500",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Brainstorm AI 2026: AI Eats the World",
@@ -2751,7 +2922,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Emerging Deep Tech Market Trends 2026",
@@ -2760,7 +2931,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Demo Night @ WorkOS (December)",
@@ -2769,7 +2940,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "AI Fundamentals + AI Mastery - Full Day Training",
@@ -2787,7 +2958,7 @@
   "city": "San Francisco Bay Area",
   "price": "$149",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "第四届中国生物计算大会",
@@ -2808,6 +2979,15 @@
   "link": "ok"
  },
  {
+  "title": "AI Governance, Risk & Compliance | San Francisco, CA | Dec 08th, 2026",
+  "start": "2026-12-08T09:00",
+  "url": "https://www.eventbrite.com/e/ai-governance-risk-compliance-san-francisco-ca-dec-08th-2026-tickets-2003697570371",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
+  "link": "ok"
+ },
+ {
   "title": "Leaders In AI Summit San Jose '26",
   "start": "2026-12-08T12:45",
   "url": "https://www.tickettailor.com/events/instituteforaitransformation/1887842",
@@ -2823,7 +3003,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Daytona AI Builders - SF, December 2026",
@@ -2832,7 +3012,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Daytona AI Builders - SF, December 2026",
@@ -2841,7 +3021,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Hedge West SF December 2026 Meetup",
@@ -2850,6 +3030,15 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
+  "link": "unsure"
+ },
+ {
+  "title": "New Ground: Global Women Founders Pitch, Demo and Networking Event",
+  "start": "2026-12-08T18:00",
+  "url": "https://www.eventbrite.com/e/new-ground-global-women-founders-pitch-demo-and-networking-event-tickets-2002850058440",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
   "link": "ok"
  },
  {
@@ -2922,7 +3111,7 @@
   "city": "San Francisco Bay Area",
   "price": "$395",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "MEET2027智能未来大会｜年度影响力科技商业峰会",
@@ -2967,7 +3156,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Llama Lounge 28: The AI Startup Event Series @ Adobe SF",
@@ -2976,7 +3165,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "AI x Bio Pitch Contest",
@@ -2985,7 +3174,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "AI Tinkerers San Jose Monthly Meetup · Dec. 09 🛠️🤖🤖",
@@ -3057,7 +3246,7 @@
   "city": "San Francisco Bay Area",
   "price": "$20",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "🚀 Startup Pitch Night SF # 3 | B4SF | San Francisco",
@@ -3066,7 +3255,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Swift Language User Group (SLUG) x Cocoaheads | December | San Francisco",
@@ -3141,6 +3330,15 @@
   "link": "ok"
  },
  {
+  "title": "RWIA & CCRW2026",
+  "start": "2026-12-11",
+  "url": "https://rwlab.sjtu.edu.cn/Content/meetings/rwia-2026/en/index.html",
+  "city": "Shanghai",
+  "price": "Unknown",
+  "site": "rwlab.sjtu.edu.cn",
+  "link": "ok"
+ },
+ {
   "title": "9th International Conference on Robotic Welding, Intelligence and Automation / 16th Chinese Conference on Robotic Welding",
   "start": "2026-12-11T08:00",
   "url": "https://rwlab.sjtu.edu.cn/Home/Detail/rwia-2026?userLang=_en",
@@ -3165,7 +3363,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "14th International Conference on Information Technology: IoT and Smart City (ICIT 2026)",
@@ -3183,7 +3381,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "AI·道高校行系列活动-北京站",
@@ -3192,7 +3390,7 @@
   "city": "Beijing",
   "price": "Unknown",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "SH Hacks 2026",
@@ -3258,13 +3456,22 @@
   "link": "ok"
  },
  {
+  "title": "International Electron Devices Meeting 2026",
+  "start": "2026-12-12",
+  "url": "https://ieee-iedm.org/",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "ieee-iedm.org",
+  "link": "unsure"
+ },
+ {
   "title": "🎄 Christmas Game Hackathon SF - By Hackathons.team",
   "start": "2026-12-12T09:00",
   "url": "https://luma.com/04nl0fob",
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "AI Hackathon: Sales Copilot AI",
@@ -3273,6 +3480,15 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
+  "link": "unsure"
+ },
+ {
+  "title": "AI-Native Value Architect",
+  "start": "2026-12-14T09:00",
+  "url": "https://www.eventbrite.com/d/ca--san-francisco/conference-or-ai/",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
   "link": "ok"
  },
  {
@@ -3282,7 +3498,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Inception Cohort 26 Demo Day",
@@ -3291,6 +3507,15 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
+  "link": "unsure"
+ },
+ {
+  "title": "Women in AI, Tech & Digital Innovation Networking SF",
+  "start": "2026-12-14T19:00",
+  "url": "https://www.eventbrite.com/d/ca--san-francisco/ai-tech-startup/",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
   "link": "ok"
  },
  {
@@ -3345,7 +3570,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "Rust Hacking in Person",
@@ -3543,6 +3768,15 @@
   "city": "San Francisco Bay Area",
   "price": "Unknown",
   "site": "luma.com",
+  "link": "unsure"
+ },
+ {
+  "title": "AI-Native Foundations",
+  "start": "2026-12-21T09:00",
+  "url": "https://www.eventbrite.com/d/ca--san-francisco/ai-ml-hackathon/",
+  "city": "San Francisco Bay Area",
+  "price": "Unknown",
+  "site": "eventbrite.com",
   "link": "ok"
  },
  {
@@ -3552,7 +3786,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "ok"
+  "link": "unsure"
  },
  {
   "title": "International Conference on Information Technology for Higher Education",
