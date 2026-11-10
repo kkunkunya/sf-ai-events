@@ -1,59 +1,5 @@
 [
  {
-  "title": "Build Day: OpenRouter x Meta",
-  "start": "2026-11-09",
-  "url": "https://luma.com/openro-lu9g",
-  "city": "San Francisco Bay Area",
-  "price": "Free",
-  "site": "luma.com",
-  "link": "ok"
- },
- {
-  "title": "带你从 0 到 1 用 AI",
-  "start": "2026-11-09T14:00",
-  "url": "https://lianpu.com/event/dai-ni-cong-0-dao-1-yong-ai",
-  "city": "Shanghai",
-  "price": "Free",
-  "site": "lianpu.com",
-  "link": "ok"
- },
- {
-  "title": "AI Builders Night",
-  "start": "2026-11-09T17:00",
-  "url": "https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/316760347",
-  "city": "San Francisco Bay Area",
-  "price": "Unknown",
-  "site": "meetup.com",
-  "link": "ok"
- },
- {
-  "title": "AI Builders Night",
-  "start": "2026-11-09T17:00",
-  "url": "https://luma.com/clickh-z8rr",
-  "city": "San Francisco Bay Area",
-  "price": "Free",
-  "site": "luma.com",
-  "link": "ok"
- },
- {
-  "title": "Side Quest Hotline Vapi Hackathon",
-  "start": "2026-11-09T17:00",
-  "url": "https://luma.com/buildclub-lugq",
-  "city": "San Francisco Bay Area",
-  "price": "Free",
-  "site": "luma.com",
-  "link": "ok"
- },
- {
-  "title": "THE SF DATABASE MEETUP: November",
-  "start": "2026-11-09T17:30",
-  "url": "https://luma.com/planet-vxwl",
-  "city": "San Francisco Bay Area",
-  "price": "Free",
-  "site": "luma.com",
-  "link": "ok"
- },
- {
   "title": "AI Engineer Code Summit 2026",
   "start": "2026-11-10",
   "url": "https://ai.engineer/code/2026",
@@ -1093,7 +1039,7 @@
   "start": "2026-11-14T09:30",
   "url": "https://gotc.oschina.net/",
   "city": "Beijing",
-  "price": "Unknown",
+  "price": "Free",
   "site": "gotc.oschina.net",
   "link": "ok"
  },
@@ -1122,7 +1068,7 @@
   "city": "San Francisco Bay Area",
   "price": "Unknown",
   "site": "luma.com",
-  "link": "unsure"
+  "link": "ok"
  },
  {
   "title": "Techs on Decks 2026",
@@ -1202,6 +1148,15 @@
   "url": "https://lianpu.com/event/ai-coffee-chat-fde-company-shenzhen",
   "city": "Beijing",
   "price": "¥30",
+  "site": "lianpu.com",
+  "link": "ok"
+ },
+ {
+  "title": "AI 不是风口，是周期",
+  "start": "2026-11-14T14:00",
+  "url": "https://lianpu.com/event/ai-bushi-fengkou-shi-zhouqi",
+  "city": "Beijing",
+  "price": "¥9.9-¥19.9",
   "site": "lianpu.com",
   "link": "ok"
  },
@@ -1446,7 +1401,7 @@
   "city": "San Francisco Bay Area",
   "price": "Unknown",
   "site": "luma.com",
-  "link": "unsure"
+  "link": "ok"
  },
  {
   "title": "Microsoft Ignite 2026",
@@ -1701,6 +1656,15 @@
   "link": "ok"
  },
  {
+  "title": "从搭建到管控：企业级 Multi-AI Agent 实战工坊",
+  "start": "2026-11-19T14:00",
+  "url": "https://www.ecloudrover.com/h-nd-489.html",
+  "city": "Beijing",
+  "price": "Unknown",
+  "site": "ecloudrover.com",
+  "link": "ok"
+ },
+ {
   "title": "Deep Tech Pitch Competition & Happy Hour | Tech Weekend | Silicon Valley",
   "start": "2026-11-19T14:30",
   "url": "https://luma.com/c6zt1oaq",
@@ -1890,6 +1854,15 @@
   "link": "ok"
  },
  {
+  "title": "北京大学“人工智能与生命科学”全国前沿交叉研究生论坛",
+  "start": "2026-11-20",
+  "url": "https://www.aais.pku.edu.cn/info/1062/20751.htm",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "aais.pku.edu.cn",
+  "link": "ok"
+ },
+ {
   "title": "2026 第七届新一代动力技术创新峰会",
   "start": "2026-11-20T08:00",
   "url": "https://www.bagevent.com/event/ticket/9144239",
@@ -1923,6 +1896,15 @@
   "city": "Beijing",
   "price": "Free / ¥398 / ¥5000 / ¥9800",
   "site": "m.ebrun.com",
+  "link": "ok"
+ },
+ {
+  "title": "2026 第八届亿邦产业互联网年会暨首届产业智能体大会",
+  "start": "2026-11-20T09:00",
+  "url": "https://www.ebrun.com/conference/4478.shtml",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "ebrun.com",
   "link": "ok"
  },
  {
@@ -2133,6 +2115,15 @@
   "link": "ok"
  },
  {
+  "title": "2026 DevFest Beijing",
+  "start": "2026-11-22T09:30",
+  "url": "https://www.huodongxing.com/event/4879762588200",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
   "title": "TEAMZ TOUR | Shanghai - 上海",
   "start": "2026-11-22T16:00",
   "url": "https://lianpu.com/event/teamz-tour-shanghai-shang-hai",
@@ -2241,6 +2232,15 @@
   "link": "ok"
  },
  {
+  "title": "WISE2026 商业之王",
+  "start": "2026-11-26T08:30",
+  "url": "https://www.huodongxing.com/event/8879638323700",
+  "city": "Beijing",
+  "price": "¥0-¥398",
+  "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
   "title": "爱搜 GEO 主题沙龙：AI 全域获客增长 | 北京",
   "start": "2026-11-26T09:00",
   "url": "https://lianpu.com/event/ai-sou-geo-zhu-ti-sha-long-ai-quan-yu-huo-ke-zeng-zhang-bei",
@@ -2256,15 +2256,6 @@
   "city": "Beijing",
   "price": "¥79–¥207",
   "site": "lianpu.com",
-  "link": "ok"
- },
- {
-  "title": "AI营销如何突破浅层工具提效，实现商业增长的长效延伸与持续迭代？——W.AWARDS金网奖2027未来商业计划领航秀",
-  "start": "2026-11-26T13:30",
-  "url": "https://www.huodongxing.com/event/5878921362700",
-  "city": "Beijing",
-  "price": "Unknown",
-  "site": "huodongxing.com",
   "link": "ok"
  },
  {
@@ -2322,12 +2313,12 @@
   "link": "ok"
  },
  {
-  "title": "WISE2026商业之王 · 了不起的OPC分会场",
+  "title": "第十五届全球软件案例研究峰会",
   "start": "2026-11-27T09:00",
-  "url": "https://www.huodongxing.com/event/7884700287511",
+  "url": "https://www.top100summit.com/Home/",
   "city": "Beijing",
   "price": "Unknown",
-  "site": "huodongxing.com",
+  "site": "top100summit.com",
   "link": "ok"
  },
  {
@@ -2337,6 +2328,15 @@
   "city": "Beijing",
   "price": "Free",
   "site": "huodongxing.com",
+  "link": "ok"
+ },
+ {
+  "title": "OPC 超级派暨 iCAN 2026 全国总决赛",
+  "start": "2026-11-28T08:00",
+  "url": "https://www.10100.com/hd/158519448",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "10100.com",
   "link": "ok"
  },
  {
@@ -2472,6 +2472,15 @@
   "city": "Shanghai",
   "price": "$2500",
   "site": "gccaigov.com",
+  "link": "ok"
+ },
+ {
+  "title": "第二序章 2026 甲子引力年终盛典",
+  "start": "2026-12-01T09:00",
+  "url": "https://www.cnaiplus.com/a/event/4430.html",
+  "city": "Beijing",
+  "price": "Unknown",
+  "site": "cnaiplus.com",
   "link": "ok"
  },
  {
@@ -2715,7 +2724,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "unsure"
+  "link": "ok"
  },
  {
   "title": "San Francisco AI, Tech & Finance Networking Event",
@@ -2787,7 +2796,7 @@
   "city": "San Francisco Bay Area",
   "price": "Free",
   "site": "luma.com",
-  "link": "unsure"
+  "link": "ok"
  },
  {
   "title": "DIA中国药品法规事务社区 线下沙龙活动 —— AI赋能全球药品研发和注册的智能化实践",
@@ -3112,15 +3121,6 @@
   "price": "$395",
   "site": "luma.com",
   "link": "unsure"
- },
- {
-  "title": "MEET2027智能未来大会｜年度影响力科技商业峰会",
-  "start": "2026-12-09T08:30",
-  "url": "https://www.huodongxing.com/event/4883534689300",
-  "city": "Beijing",
-  "price": "Free",
-  "site": "huodongxing.com",
-  "link": "ok"
  },
  {
   "title": "全球消费电子展暨上海国际消费电子及家电展览会",
@@ -3546,6 +3546,15 @@
   "link": "ok"
  },
  {
+  "title": "2026中国AI智能体大会（北京站）",
+  "start": "2026-12-15",
+  "url": "https://aiorang.com/gtic/BrfmOFc53afdjg",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "aiorang.com",
+  "link": "ok"
+ },
+ {
   "title": "CIFS 2026 第十届中国金融数智峰会",
   "start": "2026-12-15T08:55",
   "url": "https://www.infoq.cn/article/qcq7IpKGrrfkEo3JFwRT",
@@ -3762,6 +3771,15 @@
   "link": "ok"
  },
  {
+  "title": "10th International Conference on Computer Science and Artificial Intelligence (CSAI 2026)",
+  "start": "2026-12-18T10:00",
+  "url": "https://csai.org/author.html",
+  "city": "Beijing",
+  "price": "¥1800",
+  "site": "csai.org",
+  "link": "ok"
+ },
+ {
   "title": "Enterprise AI Summit San Francisco 2026",
   "start": "2026-12-20T09:00",
   "url": "https://luma.com/3a3t23p4",
@@ -3813,6 +3831,15 @@
   "city": "Beijing",
   "price": "¥349",
   "site": "aimakersummit.com",
+  "link": "ok"
+ },
+ {
+  "title": "2026 AI 商业领袖峰会｜AI 落地与产业增长大会",
+  "start": "2026-12-26T13:30",
+  "url": "https://www.cnaiplus.com/a/event/4183.html",
+  "city": "Beijing",
+  "price": "Free",
+  "site": "cnaiplus.com",
   "link": "ok"
  },
  {
